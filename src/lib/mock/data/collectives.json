@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "63b7805ca62c0f681fec4f50"
+  },
+  "name": "Kadavur Organic Farmers Association (KOFA)",
+  "category": "ICS",
+  "address": {
+    "village": "Sevapur",
+    "state": "Tamil Nadu"
+  },
+  "slug": "kadavur-organic-farmers",
+  "phone": "+914222433566",
+  "active": true,
+  "documents": [
+    {
+      "documentType": "Supporting document",
+      "documentDetails": "KOFA Minimum general standards",
+      "documentEvidence": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/documentEvidence-1678889561292--Minimum General Standards SOFIA.pdf"
+    },
+    {
+      "documentType": "Certificate",
+      "documentDetails": "Organic certification scope certificate",
+      "documentEvidence": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/documentEvidence-1678889757427--Organic Certificaiton Scope Certificate.jpeg"
+    },
+    {
+      "documentType": "Certificate",
+      "documentDetails": "KOFA Registration certificate",
+      "documentEvidence": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/documentEvidence-1678889789098--Registration Certificate.jpeg"
+    },
+    {
+      "documentType": "Supporting document",
+      "documentDetails": "Internal control system organogram",
+      "documentEvidence": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/documentEvidence-1678889825954--Internal control system Organogram.pdf"
+    }
+  ],
+  "telegramGroupChatId": "-811307703",
+  "schemes": [
+    {
+      "scheme": "GlobalGAP",
+      "conversionStatus": "NA",
+      "certificationStatus": "In-progress",
+      "validityStartDate": "2023-04-13",
+      "validityEndDate": "2023-04-29",
+      "certificationAuthority": "APEDA",
+      "certificationBodyId": "63c13ef45a5b96244eab256b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63bd94c78fbeeaccad50085e"
+  },
+  "name": "Inba Seva Sangam",
+  "category": "ICS",
+  "address": {
+    "village": "Sevapur",
+    "state": "Tamil Nadu"
+  },
+  "slug": "inba-seva-sangam",
+  "phone": "+914222433566",
+  "active": true,
+  "schemes": [
+    {
+      "scheme": "NPOP",
+      "conversionStatus": "C1",
+      "certificationStatus": "In-progress",
+      "certificationBodyId": "63c13ef45a5b96244eab256b"
+    }
+  ],
+  "mandator": {
+    "operatedBy": "Laxmi Syntex"
+  }
+},{
+  "_id": {
+    "$oid": "6436e4c609beca6bc58719bf"
+  },
+  "category": "FPO",
+  "address": {
+    "houseNo": "34",
+    "village": "bakaram",
+    "state": "Telangana",
+    "pincode": "500056"
+  },
+  "name": "YFA",
+  "email": "c@cy.com",
+  "phone": "678905678",
+  "fpoDetails": {
+    "fpRegistrationId": "KFK4567"
+  },
+  "status": "Draft",
+  "slug": "yfa",
+  "active": true,
+  "createdAt": "2023-04-12T17:05:10.927Z"
+},{
+  "_id": {
+    "$oid": "6436e5d309beca6bc58719c8"
+  },
+  "category": "FPC",
+  "address": {
+    "houseNo": "wer",
+    "street": "RGTY",
+    "village": "Rampram",
+    "mandal": "Raja puram",
+    "state": "Telangana",
+    "pincode": "569876"
+  },
+  "email": "ram@mai.com",
+  "phone": "56789056",
+  "fpcDetails": {
+    "fpRegistrationId": "FPC45678"
+  },
+  "name": "Ram FPC",
+  "status": "Draft",
+  "slug": "ram-fpc",
+  "active": true,
+  "createdAt": "2023-04-12T17:09:39.913Z"
+},{
+  "_id": {
+    "$oid": "6436e7d409beca6bc58719d4"
+  },
+  "category": "Farmer Group",
+  "address": {
+    "houseNo": "w34",
+    "street": "Ram",
+    "village": "Rajapuram",
+    "state": "telanagan",
+    "pincode": "50567"
+  },
+  "name": "Yanky FG",
+  "email": "kk@sam.com",
+  "phone": "45678904",
+  "status": "Draft",
+  "slug": "yanky-fg",
+  "active": true,
+  "createdAt": "2023-04-12T17:18:12.370Z"
+}]

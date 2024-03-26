@@ -1,0 +1,7 @@
+node_modules
+.env
+package-lock.json
+jsonServerFakeData.json
+google-services.json
+src
+mock

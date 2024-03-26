@@ -1,0 +1,6380 @@
+[
+  {
+    "_id": {
+      "$oid": "63edf8e85da293560c63a80a"
+    },
+    "cropId": null,
+    "landParcelId": "63d0f7e232a273bb5f0c3192",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-02-16T09:35:04.683Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1676539945927--10541fd4-9896-4451-bff6-d97f04f7ebc6.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "Land prep",
+    "location": {
+      "lat": 17.422911,
+      "lng": 78.3469502
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63edf9015da293560c63a813"
+    },
+    "cropId": null,
+    "landParcelId": "63d0f7e232a273bb5f0c3192",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-02-16T09:35:04.683Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1676539945928--10541fd4-9896-4451-bff6-d97f04f7ebc6.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "Land prep",
+    "location": {
+      "lat": 17.422911,
+      "lng": 78.3469502
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63f320a6bcf4e916c08598a7"
+    },
+    "cropId": "63bd66854215d9518b58fa36",
+    "landParcelId": null,
+    "planId": "63bd66854215d9518b58fa39",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-02-20T07:26:27.386Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1676877959260--5f336c7b-d38f-442f-bd52-81ca57d37160.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.4301263,
+      "lng": 78.3720272
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63f6f6dfa0fa153bc4957847"
+    },
+    "cropId": null,
+    "landParcelId": "63b7867aed430580b836e8d1",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-02-23T05:16:49.355Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677129438550--b8f573f0-a298-4c51-9625-2b1eba30155b.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.4228886,
+      "lng": 78.3469148
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63f6fca899b2a20e6dc6d106"
+    },
+    "mobileId": "6292c9bb-d98c-4ecc-9243-0ce7213421bb",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-02-23T05:41:59.434Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677130919771--2dc2878c-2825-4f50-af15-c282e0f83f6f.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.4228363,
+      "lng": 78.3469278
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63f6fd50e52385145086b72a"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "farmResourcesOthersTestEvent",
+    "details": {
+      "othersTest": {
+        "labCertifiedByNabl": "No"
+      },
+      "labCertifiedByNabl": "No",
+      "evidences": [],
+      "name": "Farm Resources (Others) Test Reports Event"
+    },
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu"
+    },
+    "createdAt": "2023-02-23T05:44:48.665Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fda676310f2d1c60255318"
+    },
+    "cropId": "63f5ede5e1c933127c126016",
+    "planId": "63f5ede5e1c933127c126019",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 4,
+        "expensesMet": 1480,
+        "ratePerHour": 250
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-15",
+        "endDate": "2023-02-16",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 150,
+        "totalExpenditure": 1480,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677567606173--Bund Formation.jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T07:00:06.350Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fddab3d7a0b91d4f72bf4a"
+    },
+    "cropId": "63f5ebe2e0c7886a70fb2729",
+    "planId": "63f5ebe2e0c7886a70fb272c",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 4,
+        "ratePerHour": 250,
+        "expensesMet": 1191
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-17",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 1191,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677580978932--Bund formation.jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T10:42:59.070Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fddb6d8a617f8b7f689b15"
+    },
+    "cropId": "63f71579daf0402df1b41101",
+    "planId": "63f71579daf0402df1b41104",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 4,
+        "ratePerHour": 250,
+        "expensesMet": 733
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-17",
+        "endDate": "2023-02-18",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 733,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677581165214--Bund preparation .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T10:46:05.316Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fddca3d7a0b91d4f72bf61"
+    },
+    "cropId": "63f5f295e1c933127c1260bc",
+    "planId": "63f5f295e1c933127c1260bf",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 250,
+        "expensesMet": 641
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-15",
+        "endDate": "2023-02-15",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 641,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677581475745--Bund preparation .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T10:51:15.844Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fddd608a617f8b7f689b2c"
+    },
+    "cropId": "63f5eecde1c933127c12604c",
+    "planId": "63f5eecee1c933127c12604f",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 4,
+        "ratePerHour": 250,
+        "expensesMet": 218133
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-17",
+        "endDate": "2023-02-20",
+        "totalMenLabourDays": 2,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 567,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677581664644--Bund preparation .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event",
+      "otherRemarks": "test edit 2"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T10:54:24.735Z",
+    "active": true,
+    "evidences": [
+      "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494189--212bd5b3-6de9-402c-b32e-f16fcb12b2ee.jpeg",
+      "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494191--3f6e150e-aad6-4cb5-b845-983cb4818a0b.jpeg"
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "63fdde30d7a0b91d4f72bf7d"
+    },
+    "cropId": "63f5e65e98cdc17ac6cce4e3",
+    "planId": "63f5e65f98cdc17ac6cce4e6",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 4,
+        "ratePerHour": 250,
+        "expensesMet": 2218
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-18",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 2218,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677581872016--Bund preparation .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T10:57:52.227Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fddef9d7a0b91d4f72bf94"
+    },
+    "cropId": "63f70b0c2a12824228882282",
+    "planId": "63f70b0d2a12824228882285",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 250,
+        "expensesMet": 770
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-18",
+        "endDate": "2023-02-18",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 770,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677582072945--Bund preparation .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:01:13.010Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fddfc38a617f8b7f689b43"
+    },
+    "cropId": "63f7139d2a1282422888231e",
+    "planId": "63f7139e2a12824228882321",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 250,
+        "expensesMet": 1100
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-17",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 1100,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677582275185--Bund formation.jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:04:35.476Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fde083d7a0b91d4f72bfab"
+    },
+    "cropId": "63f5ed32e0c7886a70fb2754",
+    "planId": "63f5ed32e0c7886a70fb2757",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 500,
+        "expensesMet": 788
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-17",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 788,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677582467573--Bund formation and seed sowing .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:07:47.700Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fde10ed7a0b91d4f72bfc2"
+    },
+    "cropId": "63f5e3b667176e2c5663190f",
+    "planId": "63f5e3b667176e2c56631912",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 2,
+        "ratePerHour": 250,
+        "expensesMet": 1375
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-18",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 1375,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677582606721--Bund formation .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:10:06.849Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fde1b28a617f8b7f689b5a"
+    },
+    "cropId": "63f70dd32a128242288822c5",
+    "planId": "63f70dd62a128242288822c8",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 250,
+        "expensesMet": 696
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-15",
+        "endDate": "2023-02-16",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 696,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677582770342--Bund formation.jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:12:50.446Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fde2abd7a0b91d4f72bfda"
+    },
+    "cropId": "63f859ac217c871e822dfe54",
+    "planId": "63f859ac217c871e822dfe57",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 250,
+        "expensesMet": 700
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-14",
+        "endDate": "2023-02-15",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 700,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677583019303--Bund preparation and seed sowing .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:16:59.381Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fde36c8a617f8b7f689b71"
+    },
+    "cropId": "63f85a998ce5d0f2e6ecb12a",
+    "planId": "63f85a998ce5d0f2e6ecb12d",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 2,
+        "ratePerHour": 250,
+        "expensesMet": 1500
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-17",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 1500,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677583211565--Bund preparation and seed sowing .jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:20:12.098Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "63fde434d7a0b91d4f72bff1"
+    },
+    "cropId": "63f70cebdaf0402df1b41056",
+    "planId": "63f70cebdaf0402df1b41059",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 0.5,
+        "ratePerHour": 250,
+        "expensesMet": 568
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-17",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 568,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677583412359--Bund preparation and seed sowing.jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-02-28T11:23:32.564Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64018be6f6e724d573d30e79"
+    },
+    "cropId": "63f5e3b667176e2c5663190f",
+    "planId": "63f5e3b667176e2c56631912",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Other",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "durationAndExpenses": {
+          "startDate": "2023-02-15",
+          "endDate": "2023-02-16",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677822950331--seed sowing.jpg"
+        },
+        "seedRate": 6,
+        "rowToRowSpacing": 20,
+        "plantToPlantSpacing": 5,
+        "ratePerKgNo": 720,
+        "expensesMet": 720
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-03T05:55:50.557Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64018e19f6e724d573d30e8e"
+    },
+    "cropId": "63f5e41867176e2c5663191d",
+    "planId": "63f5e41867176e2c56631920",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Other",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "durationAndExpenses": {
+          "startDate": "2023-02-15",
+          "endDate": "2023-02-16",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1677823513318--seed sowing.jpg"
+        },
+        "seedRate": 2,
+        "depthOfSowingPlanting": 2,
+        "plantToPlantSpacing": 8,
+        "plantPopulation": 25
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-03T06:05:13.576Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6402cf576805ea4546273a20"
+    },
+    "mobileId": "2712f48f-90fd-4036-a040-7bc768deabfc",
+    "cropId": "63f5f0e0e0c7886a70fb278b",
+    "landParcelId": null,
+    "planId": "63f5f0e0e0c7886a70fb278e",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T04:55:47.547Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677905751128--1ca3d9a2-6a39-443b-a576-5e8457d0fb69.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "Black gram seeds germination ",
+    "location": {
+      "lat": 10.5874747,
+      "lng": 78.1501142
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6402d5a7b35062e0e6734157"
+    },
+    "mobileId": "bae44432-b3b8-4cf6-8c68-3d754fd78307",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T05:22:17.238Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677907367028--d7b35882-e8d4-43fa-a623-3821b1b8c592.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.4731079,
+      "lng": 78.3734175
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6402d6ddb35062e0e6734165"
+    },
+    "mobileId": "96312097-067b-4202-a941-8a521a212e2e",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T05:27:21.559Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677907367029--0f1dd638-adb2-4afe-ac29-6ef85be8fb03.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 11.6132409,
+      "lng": 78.1475357
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6402dcac1a808cee2aa43f5e"
+    },
+    "mobileId": "88e02002-9b5f-4eda-91da-ec5cfbac89c3",
+    "cropId": "63f5dcd867176e2c56631866",
+    "landParcelId": null,
+    "planId": "63f5dcd967176e2c56631869",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T05:52:27.893Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677909163589--db920534-0eea-4a8f-9700-a7f461b2f6f0.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5875547,
+      "lng": 78.1500971
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6402df377228fc015df157fa"
+    },
+    "mobileId": "69564d23-1e98-48bf-b2fe-d0cf57c3ddc0",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T06:03:26.646Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677909814001--b29fbec8-ac77-484e-b57a-46149b18a1b4.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 11.6106903,
+      "lng": 78.1470009
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64030fb3fe61c4eefe758730"
+    },
+    "mobileId": "90e2f9d2-55cc-4a31-a605-2a8cb60aa1df",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T09:30:19.850Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677922226916--16f6e98e-45a9-4b10-aded-12a1326d62f5.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5875547,
+      "lng": 78.1500971
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6403150418c2e7a02e821562"
+    },
+    "mobileId": "2d380063-483d-46ed-a49a-b0689baa6e9a",
+    "cropId": "63f5dcd867176e2c56631866",
+    "landParcelId": null,
+    "planId": "63f5dcd967176e2c56631869",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T09:52:42.906Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677923587984--a7a38198-bf64-41cb-8bee-272d03396af1.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5875364,
+      "lng": 78.1501025
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6403153018c2e7a02e821570"
+    },
+    "mobileId": "b2dcad0f-dd83-4109-a4a0-f4158660c62c",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-04T09:52:09.717Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1677923587985--ae90b67f-5b6c-414f-a450-fb2ef9b22146.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5875539,
+      "lng": 78.1500963
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64058c80d97db38e8ee621bc"
+    },
+    "cropId": "63f70c01daf0402df1b41043",
+    "planId": "63f70c01daf0402df1b41046",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 2,
+        "ratePerHour": 200,
+        "expensesMet": 733
+      },
+      "durationAndExpenses": {
+        "startDate": "2023-02-16",
+        "endDate": "2023-02-17",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 733,
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678085248015--seed sowing.jpg"
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-06T06:47:28.208Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640590f8a66dc80a7eafc3f6"
+    },
+    "cropId": "63f70c01daf0402df1b41043",
+    "planId": "63f70c01daf0402df1b41046",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Sourced",
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 200,
+          "totalExpenditure": 180,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678086392095--seed sowing.jpg"
+        },
+        "seedRate": 1.02,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 25,
+        "expensesMet": 180
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-06T07:06:32.439Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640590f829a0afe2d4c70d6c"
+    },
+    "cropId": "63f70c01daf0402df1b41043",
+    "planId": "63f70c01daf0402df1b41046",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Sourced",
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 200,
+          "totalExpenditure": 180,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678086392261--seed sowing.jpg"
+        },
+        "seedRate": 1.02,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 25,
+        "expensesMet": 180
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-06T07:06:32.732Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64081e6a3982b52d4f725b05"
+    },
+    "mobileId": "a643d634-5c90-4742-aee3-f4cb1841fee0",
+    "cropId": null,
+    "landParcelId": "63df4536bdfbc113cd9fe3f5",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T05:34:18.027Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678253673931--a048e74e-f0be-4b14-b16b-c11e5d37b01d.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678253673932--8c36a40c-e903-4b41-9284-519239156398.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678253673933--8af46c8a-cda1-451f-be8e-9aa0171fc33b.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.700483333333333,
+      "lng": 78.270675
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6408204a099f2394093caf09"
+    },
+    "mobileId": "7563e11c-64a0-48db-8427-ab9237528908",
+    "cropId": null,
+    "landParcelId": "63df4536bdfbc113cd9fe3f5",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T05:42:21.842Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254153307--2a34dad7-1f3d-4e68-9f01-1f382d2f6b26.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254153310--767ca630-9d7d-4c7c-9f10-2ce6b8b226ad.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254153309--587e2b45-24f5-4015-a8c8-ad5c1995b350.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254153308--3a5042ba-e858-4cfd-ba07-c18626bb04e7.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/audio-1678254153311--Audio.3gp",
+        "type": "audio"
+      }
+    ],
+    "notes": "Ashwagandha and black gram.. Overall field needs more irrigation..",
+    "location": {
+      "lat": 10.7329434,
+      "lng": 78.2759114
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640822061fe8daa4679c6eab"
+    },
+    "mobileId": "6d837eb6-5b5d-439f-8622-20911fb34c0b",
+    "cropId": null,
+    "landParcelId": "63df4536bdfbc113cd9fe3f5",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T05:49:48.507Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254597521--ad30cdf5-9fe1-4ced-8287-08bb72da4998.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.6812218,
+      "lng": 78.3090037
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640822671fe8daa4679c6eb5"
+    },
+    "mobileId": "cfbc6314-a125-40ff-a3b2-97d167a5ee95",
+    "cropId": null,
+    "landParcelId": "63df4536bdfbc113cd9fe3f5",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T05:51:29.013Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254597522--dc0a02e3-aaf4-480c-95cb-bdc9aed864ef.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.685856,
+      "lng": 78.3125614
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640822db1fe8daa4679c6ebf"
+    },
+    "mobileId": "852c660f-50a3-4005-bad2-f8075170a9fb",
+    "cropId": null,
+    "landParcelId": "63df4536bdfbc113cd9fe3f5",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T05:53:25.442Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678254597523--fb1673a5-fa53-4392-9059-0a4448d6dccd.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.685856,
+      "lng": 78.3125614
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64082db6a3e72fed5f5dd4b1"
+    },
+    "mobileId": "dc2bcc6f-6941-4fa1-a559-50cae7012d83",
+    "cropId": null,
+    "landParcelId": "63d9feef5a3d174f1bd0d0bb",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T06:39:36.954Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678257589921--b9bee3a4-da24-4171-87f2-3d8e43416306.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678257589922--434ab907-62e9-439d-b92b-2590efed563f.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "Balck gram seedlings",
+    "location": {
+      "lat": 10.6626119,
+      "lng": 78.2652342
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640844383f5da5d8b436d6f6"
+    },
+    "mobileId": "ca2cb586-0a20-4d80-bb1e-ae59e75bd5f9",
+    "cropId": null,
+    "landParcelId": "63b7867aed430580b836e8e8",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-08T07:29:23.715Z",
+    "createdBy": {
+      "id": "63d348c81bb9132986790ba5",
+      "name": "Pooravasan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678263352144--43d5ffc2-bfae-48ac-b83f-12bc791996a1.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.6221396,
+      "lng": 78.2378245
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640856fbc2a0cbc7f3a25577"
+    },
+    "mobileId": "bbfe67c5-1caf-4492-9660-5c5b7998a45c",
+    "cropId": "63f70dd32a128242288822c5",
+    "landParcelId": null,
+    "planId": "63f70dd62a128242288822c8",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-08T09:34:38.471Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678268155602--a1e0778a-8db8-4f1c-948d-266ddb9c686e.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5875552,
+      "lng": 78.1500971
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64094575899eb74ada3e2362"
+    },
+    "mobileId": "b0b2f002-f8cc-4372-99a9-dc29d8940a0f",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-09T02:31:32.242Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678329205069--619653d6-d518-4ccf-9443-7362691dc5f5.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.31321341,
+      "lng": 78.3187364
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640e978a2b88f6f8a4a213f6"
+    },
+    "cropId": "63f5e1aa98cdc17ac6cce45f",
+    "planId": "63f5e1ab98cdc17ac6cce462",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 3,
+        "ratePerHour": 200,
+        "expensesMet": 2059
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "durationAndExpenses": {
+        "startDate": "2023-02-21",
+        "endDate": "2023-02-21",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 2059
+      },
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T03:24:58.488Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640e9f7c9b40ccfaa0fd3a1b"
+    },
+    "cropId": "63f5e1aa98cdc17ac6cce45f",
+    "planId": "63f5e1ab98cdc17ac6cce462",
+    "category": "Crop",
+    "name": "nutritionManureEvent",
+    "details": {
+      "manure": {
+        "usedWellDecomposedManure": "Yes",
+        "sourceOfManure": "On the farm",
+        "timeOfApplication": "Before preparatory cultivation (basal application)",
+        "manuresApplied": {
+          "fym": true,
+          "vermiCompost": false,
+          "neemCake": false,
+          "compost": false,
+          "soilIncorporationOfGreenManures": false,
+          "soilIncorporationOfGreenLeafManures": false,
+          "rhizobium": false,
+          "azolla": false,
+          "blueGreenAlgae": false,
+          "zinkSolubilisingBacteria": false,
+          "phosporousSolubilisingBacteria": false,
+          "ghanajeevamrutham": false,
+          "bioChar": false,
+          "Others": false,
+          "fymManuresApplication": {
+            "quantityOfApplication": 2000
+          }
+        },
+        "methodOfApplication": "Soil application",
+        "durationAndExpenses": {
+          "startDate": "2023-02-20",
+          "endDate": "2023-02-20",
+          "totalMenLabourDays": 2,
+          "menLaborDailyWage": 200,
+          "totalExpenditure": 3000
+        }
+      },
+      "evidences": [],
+      "name": "Inter Crop Nutrition Manure Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T03:58:52.171Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea2919b40ccfaa0fd3a34"
+    },
+    "cropId": "63f5e6b567176e2c56631937",
+    "planId": "63f5e6b667176e2c5663193a",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "seedRate": 1,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 45,
+        "ratePerKgNo": 408,
+        "expensesMet": 408,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 2,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 408
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:12:01.679Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea34e2623a313eee8eafd"
+    },
+    "cropId": "63f5e7d898cdc17ac6cce4f9",
+    "planId": "63f5e7d898cdc17ac6cce4fc",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Sourced",
+        "seedRate": 3,
+        "rowToRowSpacing": 10,
+        "plantToPlantSpacing": 30,
+        "ratePerKgNo": 26,
+        "expensesMet": 72,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 2,
+          "menLaborDailyWage": 250
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:15:10.452Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea3fc9b40ccfaa0fd3a58"
+    },
+    "cropId": "63f5e83367176e2c56631979",
+    "planId": "63f5e83367176e2c5663197c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "seedRate": 1,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 45,
+        "ratePerKgNo": 408,
+        "expensesMet": 408,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 2,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 408
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:18:04.199Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea4712623a313eee8eb18"
+    },
+    "cropId": "63f5e7d898cdc17ac6cce4f9",
+    "planId": "63f5e7d898cdc17ac6cce4fc",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 2,
+        "ratePerHour": 250,
+        "expensesMet": 898
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "durationAndExpenses": {
+        "startDate": "2023-02-15",
+        "endDate": "2023-02-16",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 898
+      },
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:20:01.953Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea5019b40ccfaa0fd3a73"
+    },
+    "cropId": "63f5e7d898cdc17ac6cce4f9",
+    "planId": "63f5e7d898cdc17ac6cce4fc",
+    "category": "Crop",
+    "name": "nutritionManureEvent",
+    "details": {
+      "manure": {
+        "usedWellDecomposedManure": "Yes",
+        "sourceOfManure": "On the farm",
+        "timeOfApplication": "Before preparatory cultivation (basal application)",
+        "manuresApplied": {
+          "fym": true,
+          "vermiCompost": false,
+          "neemCake": false,
+          "compost": false,
+          "soilIncorporationOfGreenManures": false,
+          "soilIncorporationOfGreenLeafManures": false,
+          "rhizobium": false,
+          "azolla": false,
+          "blueGreenAlgae": false,
+          "zinkSolubilisingBacteria": false,
+          "phosporousSolubilisingBacteria": false,
+          "ghanajeevamrutham": false,
+          "bioChar": false,
+          "Others": false
+        },
+        "methodOfApplication": "Soil application",
+        "durationAndExpenses": {
+          "startDate": "2023-02-15",
+          "endDate": "2023-02-16",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 2364
+        }
+      },
+      "evidences": [],
+      "name": "Inter Crop Nutrition Manure Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:22:25.024Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea5f09b40ccfaa0fd3a90"
+    },
+    "cropId": "63f5ebe2e0c7886a70fb2729",
+    "planId": "63f5ebe2e0c7886a70fb272c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "seedRate": 6,
+        "rowToRowSpacing": 10,
+        "plantToPlantSpacing": 30,
+        "ratePerKgNo": 72,
+        "expensesMet": 720,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 720,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678681584713--Bund formation.jpg"
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:26:24.791Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ea7302623a313eee8eb2e"
+    },
+    "cropId": "63f5ec40e0c7886a70fb2736",
+    "planId": "63f5ec40e0c7886a70fb2739",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Sourced",
+        "seedRate": 2,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 45,
+        "ratePerKgNo": 405,
+        "expensesMet": 810,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 810
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:31:44.502Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eaa619b40ccfaa0fd3aab"
+    },
+    "cropId": "63f5ebe2e0c7886a70fb2729",
+    "planId": "63f5ebe2e0c7886a70fb272c",
+    "category": "Crop",
+    "name": "nutritionManureEvent",
+    "details": {
+      "manure": {
+        "usedWellDecomposedManure": "Yes",
+        "sourceOfManure": "On the farm",
+        "timeOfApplication": "Before preparatory cultivation (basal application)",
+        "manuresApplied": {
+          "fym": true,
+          "vermiCompost": false,
+          "neemCake": false,
+          "compost": false,
+          "soilIncorporationOfGreenManures": false,
+          "soilIncorporationOfGreenLeafManures": false,
+          "rhizobium": false,
+          "azolla": false,
+          "blueGreenAlgae": false,
+          "zinkSolubilisingBacteria": false,
+          "phosporousSolubilisingBacteria": false,
+          "ghanajeevamrutham": false,
+          "bioChar": false,
+          "Others": false
+        },
+        "methodOfApplication": "Soil application",
+        "totalManuresCost": 2344,
+        "durationAndExpenses": {
+          "startDate": "2023-02-15",
+          "endDate": "2023-02-15",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 2344
+        }
+      },
+      "evidences": [],
+      "name": "Inter Crop Nutrition Manure Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:45:21.098Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eab6b9b40ccfaa0fd3ac8"
+    },
+    "cropId": "63f5ecdde1c933127c126005",
+    "planId": "63f5ecdde1c933127c126008",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Sourced",
+        "seedRate": 6,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 10,
+        "ratePerKgNo": 26,
+        "expensesMet": 180,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 180,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678682987086--Bund formation and seed sowing .jpg"
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:49:47.415Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eac0f5754fe5e96a6325d"
+    },
+    "cropId": "63f5ed32e0c7886a70fb2754",
+    "planId": "63f5ed32e0c7886a70fb2757",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "seedRate": 2,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 45,
+        "ratePerKgNo": 405,
+        "expensesMet": 600,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 600,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678683151467--Bund formation and seed sowing .jpg"
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:52:31.875Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eac765754fe5e96a63273"
+    },
+    "cropId": "63f5ed32e0c7886a70fb2754",
+    "planId": "63f5ed32e0c7886a70fb2757",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "seedRate": 2,
+        "rowToRowSpacing": 30,
+        "plantToPlantSpacing": 45,
+        "ratePerKgNo": 405,
+        "expensesMet": 600,
+        "durationAndExpenses": {
+          "startDate": "2023-02-16",
+          "endDate": "2023-02-17",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 600,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678683253938--Bund formation and seed sowing .jpg"
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:54:14.052Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640ead155754fe5e96a6328c"
+    },
+    "cropId": "63f5ed32e0c7886a70fb2754",
+    "planId": "63f5ed32e0c7886a70fb2757",
+    "category": "Crop",
+    "name": "nutritionManureEvent",
+    "details": {
+      "manure": {
+        "usedWellDecomposedManure": "Yes",
+        "sourceOfManure": "On the farm",
+        "timeOfApplication": "Before preparatory cultivation (basal application)",
+        "manuresApplied": {
+          "fym": true,
+          "vermiCompost": false,
+          "neemCake": false,
+          "compost": false,
+          "soilIncorporationOfGreenManures": false,
+          "soilIncorporationOfGreenLeafManures": false,
+          "rhizobium": false,
+          "azolla": false,
+          "blueGreenAlgae": false,
+          "zinkSolubilisingBacteria": false,
+          "phosporousSolubilisingBacteria": false,
+          "ghanajeevamrutham": false,
+          "bioChar": false,
+          "Others": false
+        },
+        "methodOfApplication": "Soil application",
+        "durationAndExpenses": {
+          "startDate": "2023-02-14",
+          "endDate": "2023-02-15",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 2364
+        }
+      },
+      "evidences": [],
+      "name": "Inter Crop Nutrition Manure Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:56:53.028Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eada65754fe5e96a632a7"
+    },
+    "cropId": "63f5ee29e1c933127c126029",
+    "planId": "63f5ee29e1c933127c12602c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Own",
+        "seedRate": 2,
+        "rowToRowSpacing": 45,
+        "plantToPlantSpacing": 30,
+        "ratePerKgNo": 405,
+        "expensesMet": 860,
+        "durationAndExpenses": {
+          "startDate": "2023-02-15",
+          "endDate": "2023-02-16",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T04:59:18.131Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eae9a5754fe5e96a632dd"
+    },
+    "cropId": "63f5ede5e1c933127c126016",
+    "planId": "63f5ede5e1c933127c126019",
+    "category": "Crop",
+    "name": "nutritionManureEvent",
+    "details": {
+      "manure": {
+        "usedWellDecomposedManure": "Yes",
+        "sourceOfManure": "On the farm",
+        "timeOfApplication": "Before preparatory cultivation (basal application)",
+        "manuresApplied": {
+          "fym": true,
+          "vermiCompost": false,
+          "neemCake": false,
+          "compost": false,
+          "soilIncorporationOfGreenManures": false,
+          "soilIncorporationOfGreenLeafManures": false,
+          "rhizobium": false,
+          "azolla": false,
+          "blueGreenAlgae": false,
+          "zinkSolubilisingBacteria": false,
+          "phosporousSolubilisingBacteria": false,
+          "ghanajeevamrutham": false,
+          "bioChar": false,
+          "Others": false
+        },
+        "methodOfApplication": "Soil application",
+        "totalManuresCost": 4640,
+        "durationAndExpenses": {
+          "startDate": "2023-02-13",
+          "endDate": "2023-02-13",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 4640
+        }
+      },
+      "evidences": [],
+      "name": "Inter Crop Nutrition Manure Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T05:03:22.319Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640eaf369b40ccfaa0fd3af6"
+    },
+    "cropId": "63f5ef32e1c933127c12605d",
+    "planId": "63f5ef32e1c933127c126060",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "sowing": {
+        "sowingPlantingMaterial": "Seeds",
+        "classOfPlantingMaterial": ["classCertified"],
+        "seedRateUnits": "Kgs",
+        "seedSeedlingTreatment": "Biofertilizer",
+        "natureOfSowing": "Direct sown",
+        "useCleanedPlantingMaterial": "Yes",
+        "seedPlantingMaterialSource": "Sourced",
+        "seedRate": 2,
+        "rowToRowSpacing": 45,
+        "plantToPlantSpacing": 30,
+        "ratePerKgNo": 405,
+        "expensesMet": 860,
+        "durationAndExpenses": {
+          "startDate": "2023-02-15",
+          "endDate": "2023-02-16",
+          "totalMenLabourDays": 1,
+          "menLaborDailyWage": 250,
+          "totalExpenditure": 860,
+          "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photoEvidenceBeforeAfter-1678683958043--seed sowing .jpg"
+        }
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T05:05:58.148Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640f199623c07f568215198c"
+    },
+    "mobileId": "e4c5db5f-7280-4c1a-9071-ff6330bb78d2",
+    "cropId": "63f5e6b567176e2c56631937",
+    "landParcelId": null,
+    "planId": "63f5e6b667176e2c5663193a",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-13T10:21:32.365Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189628--f7e3c04e-6bf1-4cdc-bfbb-b91448e93db4.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189627--a920cd7e-8b97-4fea-8626-8aab28430864.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189626--238c03ae-1a2e-4c37-9cef-333355cd8ff6.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59129051,
+      "lng": 78.17764392
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "640f199a23c07f568215199b"
+    },
+    "mobileId": "dfd12ffd-21cf-41ef-9d36-a96f423ef1c9",
+    "cropId": "63f5e65e98cdc17ac6cce4e3",
+    "landParcelId": null,
+    "planId": "63f5e65f98cdc17ac6cce4e6",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-13T10:20:37.950Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189629--264dec3c-2c18-4005-9297-c1ae905ec9cb.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189631--30444ed1-4b59-4b5c-970e-b8200e292cf0.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189630--7c6e25ea-929b-4c8d-b05e-bedd33e8a93a.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59128946,
+      "lng": 78.17763238
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "641059c62bac0d1aefa67ea9"
+    },
+    "mobileId": "7573bde3-c438-47c6-8c87-2b2f7ff2026d",
+    "cropId": "643175efdfad9942f36fad19",
+    "landParcelId": null,
+    "planId": "643175efdfad9942f36fad1c",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-14T11:24:30.700Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678793158558--7dcac3da-5b2f-476e-8491-6127c72e275e.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58758444,
+      "lng": 78.15012206
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "641059c92bac0d1aefa67eb4"
+    },
+    "mobileId": "91d7f4c2-f712-47c4-9aac-2892dd888642",
+    "cropId": "63f70ef2daf0402df1b4109b",
+    "landParcelId": null,
+    "planId": "63f70ef5daf0402df1b4109e",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-14T11:24:08.584Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678793158559--d56f69de-ba7a-40fd-a0ea-76fbaad7cc28.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.587583,
+      "lng": 78.1501207
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6410645f77c2e45137717592"
+    },
+    "mobileId": "f121a817-8841-47dc-a603-94ffeca621ff",
+    "cropId": "63fc8ba0071eeb6440fcb71a",
+    "landParcelId": null,
+    "planId": "63fc8ba0071eeb6440fcb71d",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-14T11:52:00.817Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678795869818--f8d92c78-4d31-4049-82b5-6f2ff0662f65.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678795869820--d8a4c229-8aa4-4dc8-936e-95edd91d2472.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678795869819--a4a80a10-e6f6-421e-8d60-a2c4325600b3.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58774576,
+      "lng": 78.15319048
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6410646577c2e451377175a1"
+    },
+    "mobileId": "58b58dfb-269f-4e6f-8bb9-47dec0db6952",
+    "cropId": "63fc8b4ebb159f6c08bcaabe",
+    "landParcelId": null,
+    "planId": "63fc8b4ebb159f6c08bcaac1",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-14T11:50:44.253Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678795869821--4917f36f-18d1-41ab-a262-105198502320.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678795869823--9ec3d7d2-a992-448b-a481-9a5913ffed9d.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678795869822--beb76b36-dafb-4134-9771-8adb05e10ec9.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58774799,
+      "lng": 78.15317905
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64116d7ace470c0272989ac0"
+    },
+    "mobileId": "eedb70b4-1217-4dd5-961a-ccd75a8f7a9b",
+    "cropId": "63f5e7d898cdc17ac6cce4f9",
+    "landParcelId": null,
+    "planId": "63f5e7d898cdc17ac6cce4fc",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:53:06.521Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678863737039--ed0f5f19-f27e-49ee-a6a2-9e15a7ab7266.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678863737040--82cdc829-55aa-4b18-8cab-89b9168232c9.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678863737038--e5cb0469-6bbc-48f5-858f-20253e434b8a.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58977697,
+      "lng": 78.15805275
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411801a28ffebe4754662bd"
+    },
+    "mobileId": "f1fbc2d3-9198-404b-8012-a145356eb796",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:50:38.760Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501405--8e688107-8316-4b22-8808-1dc1d60cadae.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501404--0155afaa-454d-4c33-8c5a-1c24147925ee.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501406--2263915d-f455-4a38-b806-fb600b95835e.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58939325,
+      "lng": 78.158241
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411802028ffebe4754662cf"
+    },
+    "mobileId": "1dfe9df0-05c4-4c29-9de7-4212f085b5eb",
+    "cropId": "63f70c452a128242288822a5",
+    "landParcelId": null,
+    "planId": "63f70c452a128242288822a8",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:47:31.885Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501407--af4f8d3d-0439-4892-b929-c5aa09dcb5c9.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501408--60a047b7-f093-4664-b1d3-02589a87d2c2.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501410--02d68734-d844-4e93-9a70-dd45b1e9ba59.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501409--20ab3a56-f1b1-4538-9510-267ee270651c.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58915503,
+      "lng": 78.15631661
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411802928ffebe4754662e0"
+    },
+    "mobileId": "26c49ebb-b14f-409a-9a76-bc1829b60867",
+    "cropId": "63f5f295e1c933127c1260bc",
+    "landParcelId": null,
+    "planId": "63f5f295e1c933127c1260bf",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:42:23.837Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501411--a010c60f-1786-4717-8cb9-7b1185454869.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501412--537e4bf7-b6ee-4ba6-be7b-dac9361c38a8.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501413--b6f767ed-b8f4-45f5-a0aa-8a28aaca5d1e.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58857092,
+      "lng": 78.15424202
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411802d28ffebe4754662f1"
+    },
+    "mobileId": "0745b74f-9e35-420c-8bc7-fafe3f37396a",
+    "cropId": "63f5f0e0e0c7886a70fb278b",
+    "landParcelId": null,
+    "planId": "63f5f0e0e0c7886a70fb278e",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:40:58.034Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501416--147cf7ed-8498-4416-a132-9a68d1efcae3.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501415--e0713940-32a5-4f79-bad2-9a2a821e9c98.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501414--1ced9dc6-7aa9-4239-978f-3afbcfb14f1f.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5885374,
+      "lng": 78.15426506
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411811b28ffebe475466300"
+    },
+    "mobileId": "2dbbfe85-4e09-4b76-8185-55bc8eaecc4b",
+    "cropId": "63f5dcd867176e2c56631866",
+    "landParcelId": null,
+    "planId": "63f5dcd967176e2c56631869",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:51:37.232Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501417--3a892a6e-347d-4c92-94c4-94a01de9f2b2.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501419--bfa9f3c4-06fa-4aef-a369-99811578a161.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501418--c2ad11dd-d0e5-4234-befe-7a8d9258e1e7.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58939405,
+      "lng": 78.1582376
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411812228ffebe475466310"
+    },
+    "mobileId": "bf17205c-3454-4294-964d-9f453342ea6d",
+    "cropId": "63f70c01daf0402df1b41043",
+    "landParcelId": null,
+    "planId": "63f70c01daf0402df1b41046",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T06:46:19.030Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501420--2d8a2e04-f615-41f7-956d-a7d87c02d683.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501422--01344a94-e118-4450-8ca5-20e2844c7d46.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678868501421--ea661ccd-0b94-48d7-8697-e7121960ccd2.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58912681,
+      "lng": 78.15632226
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "641196f6de79357817c65151"
+    },
+    "mobileId": "7e263d62-560f-4c6e-b68a-7f0572ea4340",
+    "cropId": "63f70b0c2a12824228882282",
+    "landParcelId": null,
+    "planId": "63f70b0d2a12824228882285",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:52:57.517Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353122--d16c2c24-cc95-4c02-b4c2-ccabd5a86200.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353124--ab5c42d9-6a00-48fe-9b27-094fdc4b9c87.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353123--65347085-901b-4b1e-a1dd-024ca31614f6.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58678019,
+      "lng": 78.15413316
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "641196fcde79357817c65163"
+    },
+    "mobileId": "e2973d4b-023d-4d43-a186-bc2a8b9c141f",
+    "cropId": "63fc8a76071eeb6440fcb6f0",
+    "landParcelId": null,
+    "planId": "63fc8a76071eeb6440fcb6f3",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:45:36.612Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353126--88e448f6-5c7b-4a62-b79b-2bb7b5fde5d9.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353127--2334ef50-dd08-4376-8198-47c56b69be0f.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353125--ecb94249-75a5-431d-a508-3fa79987d0dc.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58739853,
+      "lng": 78.15678629
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64119705de79357817c65172"
+    },
+    "mobileId": "60bb5956-9320-4f27-837c-9b3fb4489418",
+    "cropId": "63f5e41867176e2c5663191d",
+    "landParcelId": null,
+    "planId": "63f5e41867176e2c56631920",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:13:31.625Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353128--9f1367c2-41d4-4552-b066-710e10378a1a.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353130--dcd8bb4c-92d9-4d9a-b342-75e8416e6d5b.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353129--c184ebfd-093a-4cab-afe7-09678a985acd.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59117354,
+      "lng": 78.17813223
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64119711de79357817c65182"
+    },
+    "mobileId": "32880db9-bd8e-40f8-b64c-f54259839444",
+    "cropId": "63f5e3b667176e2c5663190f",
+    "landParcelId": null,
+    "planId": "63f5e3b667176e2c56631912",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:12:15.955Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353131--06da36c9-ca04-4d75-bd4a-fad9b4a0f1a9.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353133--8ec4729c-8a3c-47d5-81cb-2ece29485a88.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353132--b63bd898-4578-4670-9d40-c0f54dae4c1b.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59115506,
+      "lng": 78.17813278
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411971ede79357817c65191"
+    },
+    "mobileId": "06c4dfba-0d59-4d26-8cb0-5bf3c71db477",
+    "cropId": "63f5e6b567176e2c56631937",
+    "landParcelId": null,
+    "planId": "63f5e6b667176e2c5663193a",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:09:42.620Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353136--a74ce41c-7ff5-495d-ab22-e67dac1c9082.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353134--c93cf1e2-6ca0-44d9-a3ac-d646c291e03d.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353135--1cccd659-feb2-4441-a9e0-dddb8d958bea.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.5913726,
+      "lng": 78.1776148
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411972ede79357817c651a1"
+    },
+    "mobileId": "9b4e9c9a-6501-4714-bb11-ecedd1be5058",
+    "cropId": "63f5e65e98cdc17ac6cce4e3",
+    "landParcelId": null,
+    "planId": "63f5e65f98cdc17ac6cce4e6",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:08:09.237Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353138--c6ead892-ece1-4977-9abe-27cc8a8f99e6.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353137--5f851109-b727-4b54-8f7b-a586b412f338.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353139--b176379b-65a1-4108-b2da-2df0e955700e.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59136632,
+      "lng": 78.17762527
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411977ede79357817c651b0"
+    },
+    "mobileId": "84cfe960-33c5-4adb-8dd0-2f9829edcbc1",
+    "cropId": "63f70b742a12824228882293",
+    "landParcelId": null,
+    "planId": "63f70b762a12824228882296",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T09:53:39.301Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353141--5d611958-b2ad-48ed-ad83-9788608799f5.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353140--a81817fe-546c-4a91-a715-c098c4b1d188.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678874353142--a4508ae0-f623-4a75-93c6-36893920047a.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58678157,
+      "lng": 78.15413928
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411c15a07d517fd75d49c43"
+    },
+    "mobileId": "a3f95861-a87c-4ebd-a335-fcae4cc086ce",
+    "cropId": "63f70dd32a128242288822c5",
+    "landParcelId": null,
+    "planId": "63f70dd62a128242288822c8",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T13:00:06.778Z",
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678885209920--c94d69f0-3a79-4391-8bb7-3ff9b7992477.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678885209921--935e43de-5526-4510-b307-da2723d8e90f.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "Tobacco field",
+    "location": {
+      "lat": 15.53388067,
+      "lng": 80.01729948
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6411c1c107d517fd75d49c4e"
+    },
+    "mobileId": "31a7cdde-7e8c-49cd-a45f-59df88e73f21",
+    "cropId": "63f70dd32a128242288822c5",
+    "landParcelId": null,
+    "planId": "63f70dd62a128242288822c8",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-15T13:01:49.421Z",
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678885209922--93b383a0-c0fe-45bc-8c97-e40f63e7ae64.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 15.53388343,
+      "lng": 80.01730281
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64129568a4754baaa21ec147"
+    },
+    "mobileId": "2b8f479f-5520-4a1d-bace-fd9703a96649",
+    "cropId": "63f5eecde1c933127c12604c",
+    "landParcelId": null,
+    "planId": "63f5eecee1c933127c12604f",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T04:03:06.575Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494189--212bd5b3-6de9-402c-b32e-f16fcb12b2ee.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494191--3f6e150e-aad6-4cb5-b845-983cb4818a0b.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494190--085fa6da-5000-42ad-80d0-3afcae20db74.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59228654,
+      "lng": 78.20342284
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412b3c31f28e12bf43b0681"
+    },
+    "mobileId": "bf4007ed-1129-4615-94c9-bcf73d3688c1",
+    "cropId": "63f7139d2a1282422888231e",
+    "landParcelId": null,
+    "planId": "63f7139e2a12824228882321",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T06:13:29.216Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678947266414--5e9df0dd-6ce6-47fe-bb28-e48a14cd1b51.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678947266413--ba620543-ff86-47cf-a3b7-5d1a0837aab0.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59563372,
+      "lng": 78.17877727
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412c33021b12a7aa6cedb30"
+    },
+    "mobileId": "030e6d19-b59c-41f0-9455-d4f89501c4da",
+    "cropId": "63f5e1aa98cdc17ac6cce45f",
+    "landParcelId": null,
+    "planId": "63f5e1ab98cdc17ac6cce462",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T06:51:42.548Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210702--bdbdffd1-5c14-4ea3-801d-94ef5af6e9a5.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210704--3a6dcdf0-38a9-47b7-bd58-b660e4afe29b.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210703--9b54debe-f438-4685-aeab-3263d8c64e4a.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59104715,
+      "lng": 78.15842519
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412c33921b12a7aa6cedb41"
+    },
+    "mobileId": "b8506159-c2e8-4a54-b18c-d9a737d7729f",
+    "cropId": "63f70cebdaf0402df1b41056",
+    "landParcelId": null,
+    "planId": "63f70cebdaf0402df1b41059",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T06:46:00.630Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210707--a0a8c109-0611-4455-87af-6c383c144106.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210705--e52734c4-f715-47b9-b066-31c2535dae49.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210706--0a6f597b-e447-4db9-b4dc-2fb918b15e03.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59183424,
+      "lng": 78.157549
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412c33f21b12a7aa6cedb51"
+    },
+    "mobileId": "57dfcea4-1c1a-469a-a69d-080aed08e7d2",
+    "cropId": "63f5ecdde1c933127c126005",
+    "landParcelId": null,
+    "planId": "63f5ecdde1c933127c126008",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T06:44:44.068Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210708--69519792-caeb-40f6-a7ff-d9f516ccfe3c.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210710--212c8242-6374-475f-9d41-73b6b715bd25.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210709--60af8f02-0d1b-4de5-8c41-c7fa5efc19d1.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59179199,
+      "lng": 78.15758246
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412c34221b12a7aa6cedb62"
+    },
+    "mobileId": "f55a13c5-010b-4db5-932a-49f5b9bb4ff4",
+    "cropId": "63f5e25098cdc17ac6cce47d",
+    "landParcelId": null,
+    "planId": "63f5e25198cdc17ac6cce480",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T06:52:39.478Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210713--ef5b0072-e2e5-4685-8009-9c250ee3f228.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210712--7e4eb50f-2ef8-41dc-a665-8d271e7115ed.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210711--e103e6cc-5c56-4aee-ab28-332ef89d27e0.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.59107667,
+      "lng": 78.15846036
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412c34521b12a7aa6cedb73"
+    },
+    "mobileId": "aa9bba3d-9b97-4dd0-8ca6-53806dbb5e05",
+    "cropId": "63fc8414732c90aa37a7a8ae",
+    "landParcelId": null,
+    "planId": "63fc8414732c90aa37a7a8b1",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-03-16T06:26:24.827Z",
+    "createdBy": {
+      "id": "6401c605a0c74b35ea95d492",
+      "name": "Tamilselvan ",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210716--3c8b9156-144e-4594-ba85-ac8a9e58cf30.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210714--4f4b8533-02f2-4562-9fe9-4c5425051f4a.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210715--ddfe8ac3-1d0c-4955-bd0c-e534365445e3.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 10.58136269,
+      "lng": 78.15297191
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412f0b5a2bc157b54462e7f"
+    },
+    "cropId": "63f5e03c67176e2c566318da",
+    "planId": "63f5e03c67176e2c566318dd",
+    "category": "Crop",
+    "name": "landPrepOtherEvent",
+    "details": {
+      "otherPreparationImplements": {
+        "machineriesOwnership": "Rent",
+        "useCleanedAndUncontaminatedMachineries": "Yes",
+        "totalHoursOfOperation": 1,
+        "ratePerHour": 250,
+        "expensesMet": 861
+      },
+      "otherPreparationMethod": "Bunds Formation",
+      "otherMachineriesUsed": "Tractor",
+      "durationAndExpenses": {
+        "startDate": "2023-02-20",
+        "endDate": "2023-02-20",
+        "totalMenLabourDays": 1,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 861
+      },
+      "evidences": [],
+      "name": "Land Preparation Other Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-16T10:34:29.948Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412f9e13ea2cce4f6122a3f"
+    },
+    "cropId": "63f5e6b567176e2c56631937",
+    "planId": "63f5e6b667176e2c5663193a",
+    "category": "Crop",
+    "name": "observationsEvent",
+    "details": {
+      "evidences": [
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189628--f7e3c04e-6bf1-4cdc-bfbb-b91448e93db4.jpeg",
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189627--a920cd7e-8b97-4fea-8626-8aab28430864.jpeg",
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678711189626--238c03ae-1a2e-4c37-9cef-333355cd8ff6.jpeg"
+      ],
+      "name": "Observations Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-16T11:13:37.955Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6412fbca3ea2cce4f6122a5a"
+    },
+    "cropId": "63f5eecde1c933127c12604c",
+    "planId": "63f5eecee1c933127c12604f",
+    "category": "Crop",
+    "name": "observationsEvent",
+    "details": {
+      "evidences": [
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494189--212bd5b3-6de9-402c-b32e-f16fcb12b2ee.jpeg",
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494191--3f6e150e-aad6-4cb5-b845-983cb4818a0b.jpeg",
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678939494190--085fa6da-5000-42ad-80d0-3afcae20db74.jpeg"
+      ],
+      "name": "Observations Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-16T11:21:46.774Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64131c6348fba64209d00a09"
+    },
+    "landParcelId": "63b7867aed430580b836e8d1",
+    "category": "Land Parcel",
+    "name": "landParcelFarmResourcesOthersTestEvent",
+    "details": {
+      "othersTest": {
+        "labCertifiedByNabl": "Yes",
+        "resources": "test",
+        "otherRemarks": "test"
+      },
+      "name": "Farm Resources (Others) Test Reports Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-03-16T13:40:51.732Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6413881b906e5ebb13cc3c81"
+    },
+    "mobileId": "fb0251bd-54cd-4d6e-bcbc-cede698648ee",
+    "cropId": "63f5e03c67176e2c566318da",
+    "landParcelId": null,
+    "planId": "63f5e03c67176e2c566318dd",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "\"17/03/2023 01:03\"",
+    "createdBy": {
+      "id": "64130e1d9a61bc0b712afb67",
+      "name": "Ashish Virde",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1679001568257--the_avengers_iron_man-wallpaper-1920x1080.jpg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/audio-1679001568256--file_example_MP3_700KB.mp3",
+        "type": "audio"
+      }
+    ],
+    "notes": "Test",
+    "location": {
+      "lat": 10.58871115948827,
+      "lng": 78.15322880529557
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "641388ce906e5ebb13cc3ca7"
+    },
+    "mobileId": "5b81873a-5c96-49d8-9c27-e3e18f396148",
+    "cropId": "63f5e03c67176e2c566318da",
+    "landParcelId": null,
+    "planId": "63f5e03c67176e2c566318dd",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "\"17/03/2023 01:03\"",
+    "createdBy": {
+      "id": "64130e1d9a61bc0b712afb67",
+      "name": "Ashish Virde",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1679001805258--the_avengers_iron_man-wallpaper-1920x1080.jpg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/audio-1679001805257--public",
+        "type": "audio"
+      }
+    ],
+    "notes": "Test 2",
+    "location": {
+      "lat": 10.58871115948827,
+      "lng": 78.15322880529557
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64138c0a906e5ebb13cc3cc5"
+    },
+    "mobileId": "dd817047-2328-42cd-95bb-5ec3a4d34709",
+    "cropId": "63f5e03c67176e2c566318da",
+    "landParcelId": null,
+    "planId": "63f5e03c67176e2c566318dd",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "\"17/03/2023 01:03\"",
+    "createdBy": {
+      "id": "64130e1d9a61bc0b712afb67",
+      "name": "Ashish Virde",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1679002631861--the_avengers_iron_man-wallpaper-1920x1080.jpg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/audio-1679002631862--public.3gp",
+        "type": "audio"
+      }
+    ],
+    "notes": "Test 3",
+    "location": {
+      "lat": 10.58871115948827,
+      "lng": 78.15322880529557
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6413f75f43244cd9bb0d079b"
+    },
+    "cropId": "63f5e1aa98cdc17ac6cce45f",
+    "planId": "63f5e1ab98cdc17ac6cce462",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-02-21",
+        "endDate": "2023-02-21",
+        "totalMenLabourDays": 2,
+        "menLaborDailyWage": 250,
+        "totalExpenditure": 720
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63d0bf578273ab2acc4e12cf",
+      "name": "Madhu Daggupati"
+    },
+    "createdAt": "2023-03-13T03:30:59.870Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64194f78dbd3efcfdee194ea"
+    },
+    "cropId": "63f5e03c67176e2c566318da",
+    "planId": "63f5e03c67176e2c566318dd",
+    "category": "Crop",
+    "name": "landPrepBasicTillageEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-03-20",
+        "endDate": "2023-03-21",
+        "totalMenLabourDays": 2,
+        "menLaborDailyWage": 200,
+        "totalExpenditure": 5000,
+        "documentEvidenceInvoice": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/documentEvidenceInvoice-1679380344093--WAQR.png"
+      },
+      "otherRemarks": "test",
+      "evidences": [
+        "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1679001568257--the_avengers_iron_man-wallpaper-1920x1080.jpg"
+      ],
+      "name": "Land Preparation Basic Tillage Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-03-21T06:32:24.983Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64196d256b4980909d1dba10"
+    },
+    "cropId": "63f5e03c67176e2c566318da",
+    "planId": "63f5e03c67176e2c566318dd",
+    "category": "Crop",
+    "name": "irrigationEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-03-16",
+        "endDate": "2023-03-18",
+        "totalMenLabourDays": 2,
+        "totalExpenditure": 2500
+      },
+      "otherRemarks": "test 13",
+      "evidences": [
+        "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1679001568257--the_avengers_iron_man-wallpaper-1920x1080.jpg"
+      ],
+      "name": "Irrigation Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-03-21T08:39:01.142Z",
+    "active": true,
+    "evidences": [
+      "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1679001568257--the_avengers_iron_man-wallpaper-1920x1080.jpg",
+      null
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "6426cb23c2f9633297cdb0b2"
+    },
+    "mobileId": "55a92972-f3bd-4136-95d7-96ac8cd0ee62",
+    "cropId": null,
+    "landParcelId": "63b7867aed430580b836e8d1",
+    "planId": null,
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-03-31T11:59:05.601Z",
+    "createdBy": {
+      "id": "64130e5a9a61bc0b712afb69",
+      "name": "Rajan Vasani",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1680263970499--2803fa8f-a438-4976-afa7-6d9b01ae15f1.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 23.0095007,
+      "lng": 72.5229475
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "642bcc2adb38ddd24da03793"
+    },
+    "mobileId": "d93fb8d7-a9d7-4d1c-9971-087143d31ff8",
+    "cropId": "63f713ff2a1282422888232a",
+    "landParcelId": null,
+    "planId": "63f713ff2a1282422888232d",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-04-04T07:05:14.214Z",
+    "createdBy": {
+      "id": "64130e5a9a61bc0b712afb69",
+      "name": "Rajan Vasani",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1680591913303--448da9ad-1cc2-4c49-8902-6c12fce82484.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/audio-1680591913302--Audio.3gp",
+        "type": "audio"
+      }
+    ],
+    "notes": "",
+    "location": {
+      "lat": 23.0094905,
+      "lng": 72.5229256
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "642c7b66aa3560b5b561acd2"
+    },
+    "cropId": "63f713ff2a1282422888232a",
+    "planId": "63f713ff2a1282422888232d",
+    "category": "Crop",
+    "name": "landPrepBasicTillageEvent",
+    "details": {
+      "durationAndExpenses": {
+        "photoEvidenceBeforeAfter": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1680591913303--448da9ad-1cc2-4c49-8902-6c12fce82484.jpeg",
+        "documentEvidenceInvoice": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1680591913303--448da9ad-1cc2-4c49-8902-6c12fce82484.jpeg",
+        "startDate": "2023-04-05",
+        "endDate": "2023-04-06",
+        "totalExpenditure": 0
+      },
+      "evidences": [
+        "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1680591913303--448da9ad-1cc2-4c49-8902-6c12fce82484.jpeg"
+      ],
+      "name": "Land Preparation Basic Tillage Event"
+    },
+    "createdBy": {
+      "id": "64130e1d9a61bc0b712afb67",
+      "name": "Ashish Virde"
+    },
+    "createdAt": "2023-04-04T19:32:54.658Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "642e9cf9d17555506ddbbc6a"
+    },
+    "cropId": "63f5e25098cdc17ac6cce47d",
+    "planId": "63f5e25198cdc17ac6cce480",
+    "category": "Crop",
+    "name": "landPrepBasicTillageEvent",
+    "details": {
+      "durationAndExpenses": {
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210713--ef5b0072-e2e5-4685-8009-9c250ee3f228.jpeg",
+        "documentEvidenceInvoice": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/documentEvidenceInvoice-1680776439174--radish-vector.jpeg",
+        "totalExpenditure": 25,
+        "startDate": "2023-04-03",
+        "endDate": "2023-04-05"
+      },
+      "otherRemarks": "test",
+      "evidences": [],
+      "name": "Land Preparation Basic Tillage Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-04-06T10:20:41.788Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643179ecdfad9942f36fadbf"
+    },
+    "cropId": "643175efdfad9942f36fad19",
+    "planId": "643175efdfad9942f36fad1c",
+    "category": "Crop",
+    "name": "landPrepBasicTillageEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-04",
+        "endDate": "2023-04-06",
+        "totalExpenditure": 230
+      },
+      "otherRemarks": "test",
+      "evidences": [
+        "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678793158558--7dcac3da-5b2f-476e-8491-6127c72e275e.jpeg"
+      ],
+      "name": "Land Preparation Basic Tillage Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-04-08T14:27:56.191Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a5f518dd0c7d47a0a2dc"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:00:21.071Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a69618dd0c7d47a0a2f2"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:03:02.962Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a6eb18dd0c7d47a0a305"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:04:27.572Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a85918dd0c7d47a0a315"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:10:33.293Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a9269427718a66731c7c"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:13:58.848Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a92b9427718a66731c8c"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:14:03.371Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a9909427718a66731c9c"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:15:44.724Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a9ab9427718a66731ca4"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:16:11.545Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433a9fd9427718a66731cb4"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:17:33.082Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433aa099427718a66731cc4"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:17:45.105Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433aa1d9427718a66731ccc"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:18:05.554Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433aa219427718a66731cd4"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:18:09.133Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433aa789427718a66731cdc"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:19:36.820Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433aad19427718a66731cec"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:21:05.724Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433aaf79427718a66731cfc"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:21:43.716Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433ab0e9427718a66731d0c"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:22:06.733Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433ab2d9427718a66731d1c"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:22:37.029Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433b1ad9427718a66731d37"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:50:21.822Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433b1ba9427718a66731d47"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:50:34.316Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433b1e69427718a66731d57"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:51:18.569Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433b1f9065d32dea35f7135"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T06:51:37.187Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433c75f065d32dea35f7170"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:22:55.977Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433c77e065d32dea35f71d7"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:23:26.153Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433c795065d32dea35f71ed"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:23:49.569Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433c7ae065d32dea35f7203"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:24:14.281Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433c84c065d32dea35f7219"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:26:52.186Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433c871065d32dea35f722f"
+    },
+    "cropId": "64218d593fde7ecf8647072c",
+    "planId": "64218d593fde7ecf8647072f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:27:29.697Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433cab9065d32dea35f77f3"
+    },
+    "cropId": "6433cab5065d32dea35f7701",
+    "planId": "6433cab5065d32dea35f7704",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T08:37:13.392Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d0c297542eff6e3eda13"
+    },
+    "cropId": "63f5e25098cdc17ac6cce47d",
+    "planId": "63f5e25198cdc17ac6cce480",
+    "category": "Crop",
+    "name": "irrigationEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-04",
+        "endDate": "2023-04-06",
+        "photoEvidenceBeforeAfter": "https://organova.carbonmint.com/api/file/public?id=/gridfs:organova/photo-1678951210713--ef5b0072-e2e5-4685-8009-9c250ee3f228.jpeg",
+        "documentEvidenceInvoice": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/documentEvidenceInvoice-1681117377748--radish-vector.jpeg",
+        "totalExpenditure": 0
+      },
+      "otherRemarks": "test",
+      "evidences": [],
+      "name": "Irrigation Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-04-10T09:02:58.286Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d177065d32dea35f7919"
+    },
+    "cropId": "6433d171065d32dea35f7827",
+    "planId": "6433d171065d32dea35f782a",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:05:59.212Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d30f065d32dea35f7ada"
+    },
+    "cropId": "6433d30a065d32dea35f79e8",
+    "planId": "6433d30a065d32dea35f79eb",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:12:47.513Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d456065d32dea35f7c9c"
+    },
+    "cropId": "6433d450065d32dea35f7ba9",
+    "planId": "6433d450065d32dea35f7bac",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:18:14.559Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d477065d32dea35f7e3e"
+    },
+    "cropId": "6433d473065d32dea35f7d4c",
+    "planId": "6433d473065d32dea35f7d4f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:18:47.937Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d4c8065d32dea35f7f4b"
+    },
+    "cropId": "6433d4c2065d32dea35f7e59",
+    "planId": "6433d4c2065d32dea35f7e5c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:20:08.467Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d530065d32dea35f8059"
+    },
+    "cropId": "6433d52a065d32dea35f7f66",
+    "planId": "6433d52a065d32dea35f7f69",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:21:52.690Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d581065d32dea35f8165"
+    },
+    "cropId": "6433d57b065d32dea35f8073",
+    "planId": "6433d57b065d32dea35f8076",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:23:13.392Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d5c4065d32dea35f8272"
+    },
+    "cropId": "6433d5be065d32dea35f8180",
+    "planId": "6433d5be065d32dea35f8183",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:24:20.167Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d600065d32dea35f837f"
+    },
+    "cropId": "6433d5fa065d32dea35f828d",
+    "planId": "6433d5fb065d32dea35f8290",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:25:20.189Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d62a065d32dea35f848d"
+    },
+    "cropId": "6433d625065d32dea35f839a",
+    "planId": "6433d625065d32dea35f839d",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:26:02.818Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d697065d32dea35f8599"
+    },
+    "cropId": "6433d691065d32dea35f84a7",
+    "planId": "6433d691065d32dea35f84aa",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:27:51.488Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d7ea065d32dea35f86a7"
+    },
+    "cropId": "6433d7e4065d32dea35f85b4",
+    "planId": "6433d7e4065d32dea35f85b7",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:33:30.608Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433d899065d32dea35f87b3"
+    },
+    "cropId": "6433d894065d32dea35f86c1",
+    "planId": "6433d894065d32dea35f86c4",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-10",
+        "endDate": "2023-04-11",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:36:25.976Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433daf3065d32dea35f8aaa"
+    },
+    "cropId": "6433daef065d32dea35f89b8",
+    "planId": "6433daf0065d32dea35f89bb",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:46:27.318Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433db3c065d32dea35f8bb5"
+    },
+    "cropId": "6433db39065d32dea35f8ac3",
+    "planId": "6433db39065d32dea35f8ac6",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:47:40.958Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dbe9065d32dea35f8cc7"
+    },
+    "cropId": "6433dbe3065d32dea35f8bd4",
+    "planId": "6433dbe3065d32dea35f8bd7",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:50:33.078Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dc36065d32dea35f8dd8"
+    },
+    "cropId": "6433dc2f065d32dea35f8ce5",
+    "planId": "6433dc2f065d32dea35f8ce8",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:51:50.887Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dcc9065d32dea35f8ee8"
+    },
+    "cropId": "6433dcc3065d32dea35f8df6",
+    "planId": "6433dcc3065d32dea35f8df9",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:54:17.671Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dcfc065d32dea35f8ff4"
+    },
+    "cropId": "6433dcf8065d32dea35f8f01",
+    "planId": "6433dcf8065d32dea35f8f04",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:55:08.820Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dd56065d32dea35f9104"
+    },
+    "cropId": "6433dd50065d32dea35f9012",
+    "planId": "6433dd50065d32dea35f9015",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:56:38.482Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433de04065d32dea35f9215"
+    },
+    "cropId": "6433ddfc065d32dea35f9123",
+    "planId": "6433ddfc065d32dea35f9126",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:59:32.593Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433de15065d32dea35f9320"
+    },
+    "cropId": "6433de11065d32dea35f922e",
+    "planId": "6433de12065d32dea35f9231",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T09:59:49.689Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dea2065d32dea35f9432"
+    },
+    "cropId": "6433de9c065d32dea35f933f",
+    "planId": "6433de9c065d32dea35f9342",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:02:10.936Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433dee2065d32dea35f9542"
+    },
+    "cropId": "6433dedd065d32dea35f9450",
+    "planId": "6433dedd065d32dea35f9453",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:03:14.465Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433deed065d32dea35f964e"
+    },
+    "cropId": "6433dee9065d32dea35f955b",
+    "planId": "6433dee9065d32dea35f955e",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:03:25.347Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433df37065d32dea35f9759"
+    },
+    "cropId": "6433df31065d32dea35f9666",
+    "planId": "6433df31065d32dea35f9669",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:04:39.306Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433e02121779a3e5889a3c9"
+    },
+    "cropId": "6433e01421779a3e5889a2d1",
+    "planId": "6433e01421779a3e5889a2d4",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:08:33.804Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433e05a21779a3e5889a4dd"
+    },
+    "cropId": "6433e05321779a3e5889a3eb",
+    "planId": "6433e05321779a3e5889a3ee",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:09:30.998Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433e09e21779a3e5889a5f2"
+    },
+    "cropId": "6433e09821779a3e5889a4ff",
+    "planId": "6433e09821779a3e5889a502",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:10:38.322Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433e17321779a3e5889a7e5"
+    },
+    "cropId": "6433e13c21779a3e5889a6fd",
+    "planId": "6433e13c21779a3e5889a700",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:14:11.589Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433e1a521779a3e5889a9b7"
+    },
+    "cropId": "6433e19c21779a3e5889a8c4",
+    "planId": "6433e19c21779a3e5889a8c7",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:15:01.704Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433e20d21779a3e5889ab2c"
+    },
+    "cropId": "6433e20821779a3e5889aa39",
+    "planId": "6433e20821779a3e5889aa3c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-16",
+        "endDate": "2023-04-17",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-10T10:16:45.457Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6433f3af98a2a5c5702bec57"
+    },
+    "mobileId": "a7ab95dd-3cb2-4596-a644-88f2bebc2986",
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "landParcelId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-04-10T11:31:59.497Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1681126319112--67cb7c8a-c588-49ae-8f47-4661311f2d1d.jpeg",
+        "type": "photo"
+      },
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1681126319113--16020aad-00b3-46c8-a8ff-dc91b1638c48.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.31345455,
+      "lng": 78.31872533
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6434fceced270df8d15eb31c"
+    },
+    "cropId": "6434fce3ed270df8d15eb226",
+    "planId": "6434fce3ed270df8d15eb229",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-17",
+        "endDate": "2023-04-18",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-11T06:23:40.739Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6435197178f4657b557b362a"
+    },
+    "cropId": "63f5f295e1c933127c1260bc",
+    "planId": "63f5f295e1c933127c1260bf",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-03-08",
+        "endDate": "2023-03-09",
+        "totalExpenditure": 230
+      },
+      "otherRemarks": "test plan update",
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-04-11T08:25:21.881Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64365d93b0db8aa886443270"
+    },
+    "cropId": "64365d8bb0db8aa88644317a",
+    "planId": "64365d8bb0db8aa88644317d",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T07:28:19.839Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6436675ab0db8aa886443734"
+    },
+    "cropId": "64366754b0db8aa886443641",
+    "planId": "64366754b0db8aa886443644",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T08:10:02.945Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64366b58b0db8aa88644397c"
+    },
+    "cropId": "64366b51b0db8aa886443889",
+    "planId": "64366b51b0db8aa88644388c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T08:27:04.339Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64366b7bb0db8aa886443b69"
+    },
+    "cropId": "64366b74b0db8aa886443a77",
+    "planId": "64366b74b0db8aa886443a7a",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T08:27:39.090Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64366d43b0db8aa886443cde"
+    },
+    "cropId": "64366d3db0db8aa886443beb",
+    "planId": "64366d3db0db8aa886443bee",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T08:35:15.527Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64366d4fb0db8aa886443e76"
+    },
+    "cropId": "64366d4bb0db8aa886443d83",
+    "planId": "64366d4bb0db8aa886443d86",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T08:35:27.468Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64367099b0db8aa8864440b5"
+    },
+    "cropId": "64367093b0db8aa886443fc2",
+    "planId": "64367093b0db8aa886443fc5",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T08:49:29.520Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643680e2b0db8aa886444235"
+    },
+    "cropId": "643680dab0db8aa886444143",
+    "planId": "643680dab0db8aa886444146",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T09:58:58.250Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643683bcb0db8aa8864443af"
+    },
+    "cropId": "643683b6b0db8aa8864442bd",
+    "planId": "643683b6b0db8aa8864442c0",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T10:11:08.591Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64368523b0db8aa88644452c"
+    },
+    "cropId": "6436851cb0db8aa88644443a",
+    "planId": "6436851cb0db8aa88644443d",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T10:17:07.026Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6436883cb0db8aa8864446a6"
+    },
+    "cropId": "64368836b0db8aa8864445b4",
+    "planId": "64368836b0db8aa8864445b7",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T10:30:20.619Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64368ac2b0db8aa886444821"
+    },
+    "cropId": "64368abdb0db8aa88644472e",
+    "planId": "64368abdb0db8aa886444731",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T10:41:06.939Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64368b42b0db8aa886444995"
+    },
+    "cropId": "64368b3eb0db8aa8864448a2",
+    "planId": "64368b3eb0db8aa8864448a5",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T10:43:14.864Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369412b0db8aa886444ade"
+    },
+    "cropId": "6436940cb0db8aa886444a33",
+    "planId": "6436940cb0db8aa886444a36",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:20:50.724Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369525b0db8aa886444be8"
+    },
+    "cropId": "64369520b0db8aa886444b3e",
+    "planId": "64369520b0db8aa886444b41",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:25:25.149Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643695a7b0db8aa886444cf4"
+    },
+    "cropId": "643695a2b0db8aa886444c49",
+    "planId": "643695a2b0db8aa886444c4c",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:27:35.173Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643696566d25ca53bc2d5978"
+    },
+    "cropId": "6436964b6d25ca53bc2d5861",
+    "planId": "6436964b6d25ca53bc2d5864",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:30:30.173Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643696bc6d25ca53bc2d5bc9"
+    },
+    "cropId": "643696b66d25ca53bc2d5ab6",
+    "planId": "643696b66d25ca53bc2d5ab9",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:32:12.465Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643697ae6d25ca53bc2d5e1e"
+    },
+    "cropId": "643697a86d25ca53bc2d5d0c",
+    "planId": "643697a86d25ca53bc2d5d0f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:36:14.534Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643698eb6d25ca53bc2d6077"
+    },
+    "cropId": "643698e56d25ca53bc2d5f64",
+    "planId": "643698e56d25ca53bc2d5f67",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:41:31.227Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643699256d25ca53bc2d62e2"
+    },
+    "cropId": "6436991f6d25ca53bc2d61d0",
+    "planId": "6436991f6d25ca53bc2d61d3",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:42:29.501Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369b4f6d25ca53bc2d6632"
+    },
+    "cropId": "64369b496d25ca53bc2d6520",
+    "planId": "64369b496d25ca53bc2d6523",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:51:43.644Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369b726d25ca53bc2d6958"
+    },
+    "cropId": "64369b6c6d25ca53bc2d6846",
+    "planId": "64369b6c6d25ca53bc2d6849",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:52:18.269Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369b9f6d25ca53bc2d6b9a"
+    },
+    "cropId": "64369b986d25ca53bc2d6a88",
+    "planId": "64369b986d25ca53bc2d6a8b",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:53:03.019Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369cc56d25ca53bc2d6ddc"
+    },
+    "cropId": "64369cbf6d25ca53bc2d6cca",
+    "planId": "64369cbf6d25ca53bc2d6ccd",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:57:57.145Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369cfa6d25ca53bc2d702c"
+    },
+    "cropId": "64369cf36d25ca53bc2d6f1a",
+    "planId": "64369cf36d25ca53bc2d6f1d",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T11:58:50.668Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64369db36d25ca53bc2d726f"
+    },
+    "cropId": "64369dac6d25ca53bc2d715c",
+    "planId": "64369dac6d25ca53bc2d715f",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T12:01:55.702Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6436a0476d25ca53bc2d76c7"
+    },
+    "cropId": "6436a03f6d25ca53bc2d75b4",
+    "planId": "6436a03f6d25ca53bc2d75b7",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-18",
+        "endDate": "2023-04-19",
+        "totalExpenditure": 1
+      },
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "64130e669a61bc0b712afb6a",
+      "name": "Manoj Manoharan"
+    },
+    "createdAt": "2023-04-12T12:12:55.673Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6437d85b66a85c4428dede44"
+    },
+    "mobileId": "26f42095-25f0-4049-81d2-688953fe9abe",
+    "cropId": "63f5dcd867176e2c56631866",
+    "landParcelId": null,
+    "planId": "63f5dcd967176e2c56631869",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-04-13T10:24:27.346Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1681381466890--2da8bba9-f806-432b-9dc3-41f49f06adf6.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.4226688,
+      "lng": 78.3471387
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6437d881fb4cef2216ad72a1"
+    },
+    "mobileId": "f48c7a4e-504b-420d-9b21-8527db4ef341",
+    "cropId": null,
+    "landParcelId": "63b7867aed430580b836e8d1",
+    "planId": "NA",
+    "category": "Submission",
+    "name": "Land Parcel Intervention",
+    "createdAt": "2023-04-13T10:25:05.531Z",
+    "createdBy": {
+      "id": "63b77f7ba62c0f681fec4f4c",
+      "name": "Venkat Pindipolu",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1681381505356--5c96b123-ac0e-43e6-ab1e-7f17f901c098.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 17.4226691,
+      "lng": 78.3471521
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643a6ce06854e268053f6451"
+    },
+    "mobileId": "732ff049-ef04-4c62-8143-dcb672ce4ad4",
+    "cropId": "63f7139d2a1282422888231e",
+    "landParcelId": null,
+    "planId": "63f7139e2a12824228882321",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-04-15T09:22:40.907Z",
+    "createdBy": {
+      "id": "64130e5a9a61bc0b712afb69",
+      "name": "Rajan Vasani",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1681550560644--3c721963-32af-41f0-8cdc-376cd5c53d08.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 23.0094054,
+      "lng": 72.5229338
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643a8015e164295b4979237c"
+    },
+    "mobileId": "6ced7f18-66a4-43c9-94a1-1441965fd810",
+    "cropId": "63f7139d2a1282422888231e",
+    "landParcelId": null,
+    "planId": "63f7139e2a12824228882321",
+    "category": "Submission",
+    "name": "Crop Intervention",
+    "createdAt": "2023-04-15T10:44:37.365Z",
+    "createdBy": {
+      "id": "64130e5a9a61bc0b712afb69",
+      "name": "Rajan Vasani",
+      "role": "Field Officer"
+    },
+    "photoRecords": [
+      {
+        "link": "https://dev.reactml.carbonmint.com/api/file/public?id=/gridfs:reactml-dev/photo-1681555476932--5aebc260-92e1-4298-b45f-09a1d580a340.jpeg",
+        "type": "photo"
+      }
+    ],
+    "audioRecords": [],
+    "notes": "",
+    "location": {
+      "lat": 23.0093977,
+      "lng": 72.5229281
+    },
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643e3580af70b66eeb437749"
+    },
+    "cropId": "63f5ede5e1c933127c126016",
+    "planId": "63f5ede5e1c933127c126019",
+    "category": "Crop",
+    "name": "sowingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-04-11",
+        "endDate": "2023-04-12",
+        "totalExpenditure": 2400
+      },
+      "otherRemarks": "test sowing plan change",
+      "evidences": [],
+      "name": "Sowing Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-04-18T06:15:28.379Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "643e6b697e742d602b765c82"
+    },
+    "landParcelId": "63d10bfb6dd8c0e6583166eb",
+    "category": "Land Parcel",
+    "name": "landParcelInternalAuditingReportEvent",
+    "details": {
+      "otherRemarks": "test",
+      "name": "Land Parcel - Internal Auditing Report Event"
+    },
+    "createdBy": {
+      "id": "63b77f59a62c0f681fec4f4b",
+      "name": "Ashwin Dhanasri"
+    },
+    "createdAt": "2023-04-18T10:05:29.901Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "644325d4b5e14c8afd2ecf2b"
+    },
+    "category": "Operator",
+    "name": "cropInputLogEvent",
+    "details": {
+      "otherRemarks": "not real stuff",
+      "evidences": [],
+      "name": "Input Log Event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T00:09:56.157Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "644326c5b5e14c8afd2ecf43"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observationsEvent",
+    "details": {
+      "otherRemarks": "not real",
+      "evidences": [],
+      "name": "Observations Event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T00:13:57.422Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443282cb5e14c8afd2ecf5d"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "updatedHarvestingEvent",
+    "details": {
+      "durationAndExpenses": {
+        "startDate": "2023-01-01",
+        "endDate": "2023-01-06",
+        "totalExpenditure": 1523
+      },
+      "otherRemarks": "not real",
+      "evidences": [],
+      "name": "Harvesting Event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T00:19:56.660Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443326bdb129205456e875f"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T01:03:39.100Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443339fdb129205456e8774"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T01:08:47.560Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443355adb129205456e878c"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T01:16:10.894Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "644335fedb129205456e87a1"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T01:18:54.683Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64433620db129205456e87b6"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T01:19:28.256Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443368bdb129205456e87cb"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T01:21:15.443Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64438324c41061b9f9898363"
+    },
+    "cropId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T06:48:04.958Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443836bc41061b9f9898373"
+    },
+    "cropId": null,
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T06:49:15.981Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "644383c9c41061b9f9898385"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T06:50:49.701Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "64438527c41061b9f989839b"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T06:56:39.640Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "644385e4c41061b9f98983b1"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "start event",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682146788562"
+      }
+    },
+    "active": true,
+    "evidences": []
+  },
+  {
+    "_id": {
+      "$oid": "64438731c41061b9f98983c7"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": "2023-04-22T07:05:21.678Z",
+    "active": true
+  },
+  {
+    "_id": {
+      "$oid": "6443c8dd2cce66efc7a5a28e"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "start event",
+    "details": {
+      "evidences": [],
+      "name": "start event",
+      "otherRemarks": "check2"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682163933570"
+      }
+    },
+    "active": true,
+    "evidences": []
+  },
+  {
+    "_id": {
+      "$oid": "6443cf9491e8bbcc2f92cd54"
+    },
+    "cropId": "63f5db8c98cdc17ac6cce426",
+    "planId": "63f5db8e98cdc17ac6cce429",
+    "category": "Crop",
+    "name": "observations",
+    "details": {
+      "evidences": [],
+      "name": "start event",
+      "otherRemarks": "v12"
+    },
+    "createdBy": {
+      "id": "63b77f8ea62c0f681fec4f4d",
+      "name": "Prasanna Kondapaneni"
+    },
+    "createdAt": {
+      "$date": {
+        "$numberLong": "1682165652385"
+      }
+    },
+    "active": true,
+    "evidences": []
+  }
+]

@@ -1,0 +1,559 @@
+[{
+  "_id": {
+    "$oid": "63ba2bec4c6e03160ff28667"
+  },
+  "cropPopType": {
+    "season": "Rabi",
+    "durationType": "Long",
+    "scheme": "None",
+    "name": "Ashwagandha",
+    "variety": "Vallabh",
+    "region": "Tamil Nadu",
+    "durationDays": 140
+  },
+  "controlPoints": [
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -14,
+        "end": -12
+      },
+      "name": "Land preparation - Disc ploughing",
+      "period": "2",
+      "cpId": 0,
+      "technicalAdvice": "Technical advice"
+    },
+    {
+      "activityType": "Seed procurement",
+      "days": {
+        "start": -12,
+        "end": -10
+      },
+      "name": "Procurement of seeds ",
+      "period": "2",
+      "cpId": 1
+    },
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -9,
+        "end": -8
+      },
+      "name": "Application of manures (FYM)",
+      "period": "1",
+      "cpId": 2
+    },
+    {
+      "activityType": "Seed treatment",
+      "days": {
+        "start": -8,
+        "end": -6
+      },
+      "name": "Seed treatment  ",
+      "period": "2",
+      "cpId": 3
+    },
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -5,
+        "end": -3
+      },
+      "name": "Land preparation - Ploughing & harrowing",
+      "period": "2",
+      "cpId": 4
+    },
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -3,
+        "end": -1
+      },
+      "name": "Preparation of raised beds ",
+      "period": "2",
+      "cpId": 5
+    },
+    {
+      "activityType": "Sowing",
+      "days": {
+        "start": 0,
+        "end": 1
+      },
+      "name": "Sowing ",
+      "period": "1",
+      "cpId": 6
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 1,
+        "end": 2
+      },
+      "name": "Life irrigation - after sowing (if there is no moisture in land)",
+      "period": "1",
+      "cpId": 7
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 3,
+        "end": 8
+      },
+      "name": "1st irrigation - 3rd of sowing ",
+      "period": "5",
+      "cpId": 8
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 9,
+        "end": 14
+      },
+      "name": "2nd irrigaiton - 10th day of first irrigation ",
+      "period": "5",
+      "cpId": 9
+    },
+    {
+      "activityType": "Intercultural operations'",
+      "days": {
+        "start": 15,
+        "end": 18
+      },
+      "name": "Inter cultivation - 1st Hand weeding",
+      "period": "3",
+      "cpId": 10
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 19,
+        "end": 21
+      },
+      "name": "1st foliar spray ",
+      "period": "3",
+      "cpId": 11
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 22,
+        "end": 29
+      },
+      "name": "3rd irrigation - 15th day of 2nd irrigation ",
+      "period": "7",
+      "cpId": 12
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 36,
+        "end": 38
+      },
+      "name": "2nd foliar spray ",
+      "period": "2",
+      "cpId": 13
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 39,
+        "end": 41
+      },
+      "name": "4th irrigaiton - 15th day of 3rd irrigation ",
+      "period": "3",
+      "cpId": 14
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 52,
+        "end": 54
+      },
+      "name": "5th irrigation - 15th day of 4th irrigation ",
+      "period": "3",
+      "cpId": 15
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 54,
+        "end": 56
+      },
+      "name": "3rd foliar spray ",
+      "period": "3",
+      "cpId": 16
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 56,
+        "end": 58
+      },
+      "name": "6th irrigation - 15th day of 5th irrigation ",
+      "period": "2",
+      "cpId": 17
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 58,
+        "end": 60
+      },
+      "name": "4th foliar spray ",
+      "period": "2",
+      "cpId": 18
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 60,
+        "end": 62
+      },
+      "name": "7th irrigation - 15th day of 6th irrigation ",
+      "period": "2",
+      "cpId": 19
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 62,
+        "end": 64
+      },
+      "name": "5th foliar spray ",
+      "period": "2",
+      "cpId": 20
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 66,
+        "end": 68
+      },
+      "name": "8th irrigation - 15th day of 7th irrigation ",
+      "period": "2",
+      "cpId": 21
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 69,
+        "end": 72
+      },
+      "name": "6th foliar spray ",
+      "period": "4",
+      "cpId": 23
+    },
+    {
+      "activityType": "Intercultural operations'",
+      "days": {
+        "start": 82,
+        "end": 84
+      },
+      "name": "Inter cultivation - 2nd Hand weeding",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 84,
+        "end": 86
+      },
+      "name": "9th irrigation - 15th day of 8th irrigation ",
+      "period": "2"
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 86,
+        "end": 88
+      },
+      "name": "7th foliar spray ",
+      "period": "2"
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 96,
+        "end": 98
+      },
+      "name": "8th foliar spray ",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 98,
+        "end": 100
+      },
+      "name": "10th irrigation - 15th day of 9th irrigation ",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 126,
+        "end": 128
+      },
+      "name": "11th irrigation - 30 day of 10th irrigation",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 132,
+        "end": 134
+      },
+      "name": "12th irrigation - 7 days of 11th irrigation",
+      "period": "2"
+    },
+    {
+      "activityType": "Harvest",
+      "days": {
+        "start": 139,
+        "end": 140
+      },
+      "name": "Harvesting",
+      "period": "2"
+    },
+    {
+      "activityType": "Post harvest handling",
+      "days": {
+        "start": 141,
+        "end": 145
+      },
+      "name": "Post Harvest",
+      "period": "4"
+    }
+  ],
+  "status": "Draft",
+  "name": "Ashwagandha POP - Inba Seva Sangam",
+  "description": "Ashwagandha POP - Inba Seva Sangam",
+  "active": true,
+  "index": 0
+},{
+  "_id": {
+    "$oid": "63ba26830ac3f9be06a64a54"
+  },
+  "cropPopType": {
+    "season": "Rabi",
+    "durationType": "Short",
+    "scheme": "None",
+    "name": "Black Gram",
+    "variety": "Vamban 8",
+    "region": "Tamil Nadu",
+    "durationDays": 75
+  },
+  "controlPoints": [
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -14,
+        "end": -12
+      },
+      "name": "Land preparation - Disc ploughing",
+      "period": "2"
+    },
+    {
+      "activityType": "Seed procurement",
+      "days": {
+        "start": -12,
+        "end": -10
+      },
+      "name": "Procurement of seeds ",
+      "period": "2"
+    },
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -9,
+        "end": -8
+      },
+      "name": "Application of manures (FYM)",
+      "period": "1"
+    },
+    {
+      "activityType": "Seed treatment",
+      "days": {
+        "start": -8,
+        "end": -6
+      },
+      "name": "Seed treatment  ",
+      "period": "2"
+    },
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -5,
+        "end": -3
+      },
+      "name": "Land preparation - Ploughing & harrowing",
+      "period": "2"
+    },
+    {
+      "activityType": "Land preparation",
+      "days": {
+        "start": -3,
+        "end": -1
+      },
+      "name": "Prepartion of raised beds ",
+      "period": "2"
+    },
+    {
+      "activityType": "Sowing",
+      "days": {
+        "start": 0,
+        "end": 1
+      },
+      "name": "Sowing ",
+      "period": "1"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 1,
+        "end": 2
+      },
+      "name": "Life irrigation - after sowing (if there is no moisture in land)",
+      "period": "1"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 3,
+        "end": 8
+      },
+      "name": "1st irrigation - 3rd of sowing ",
+      "period": "5"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 9,
+        "end": 14
+      },
+      "name": "2nd irrigaiton - 10th day of first irrigation ",
+      "period": "5"
+    },
+    {
+      "activityType": "Intercultural operations'",
+      "days": {
+        "start": 15,
+        "end": 18
+      },
+      "name": "Inter cultivation - 1st Hand weeding",
+      "period": "3"
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 19,
+        "end": 21
+      },
+      "name": "1st foliar spray ",
+      "period": "3"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 22,
+        "end": 29
+      },
+      "name": "3rd irrigation - 15th day of 2nd irrigation ",
+      "period": "7"
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 36,
+        "end": 38
+      },
+      "name": "2nd foliar spray ",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 39,
+        "end": 41
+      },
+      "name": "4th irrigaiton - 15th day of 3rd irrigation ",
+      "period": "3"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 52,
+        "end": 54
+      },
+      "name": "5th irrigation - 15th day of 4th irrigation ",
+      "period": "3"
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 56,
+        "end": 58
+      },
+      "name": "3rd foliar spray ",
+      "period": "3"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 58,
+        "end": 60
+      },
+      "name": "6th irrigation - 15th day of 5th irrigation ",
+      "period": "2"
+    },
+    {
+      "activityType": "Integrated crop nutrition",
+      "days": {
+        "start": 60,
+        "end": 62
+      },
+      "name": "4th foliar spray ",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 62,
+        "end": 64
+      },
+      "name": "7th irrigation - 15th day of 6th irrigation ",
+      "period": "2"
+    },
+    {
+      "activityType": "Irrigation",
+      "days": {
+        "start": 66,
+        "end": 68
+      },
+      "name": "8th irrigation - 15th day of 7th irrigation ",
+      "period": "2"
+    },
+    {
+      "activityType": "Harvest",
+      "days": {
+        "start": 70,
+        "end": 75
+      },
+      "name": "Harvesting",
+      "period": "0"
+    },
+    {
+      "activityType": "Post harvest handling",
+      "days": {
+        "start": 76,
+        "end": 78
+      },
+      "name": "Post Harvest",
+      "period": "2"
+    }
+  ],
+  "status": "Draft",
+  "name": "Black Gram POP - Inba Seva Sangam",
+  "description": "Black Gram POP - Inba Seva Sangam",
+  "active": true
+}]

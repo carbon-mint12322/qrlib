@@ -1,0 +1,378 @@
+[{
+  "_id": {
+    "$oid": "63bd6533c8fcac9515ab0290"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Amutha Cropping System",
+  "field": "63b9acbef10b7f90a305b5c3",
+  "landParcel": "63b7867aed430580b836e8cf",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd8c7cde70ff7e301ecec9"
+  },
+  "category": "Intercroping",
+  "name": "Edumpan Cropping System",
+  "field": "63bd89b8f19d90f6cffe0e79",
+  "landParcel": "63b7867aed430580b836e8e1",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63ba78919b8b3340591a2efd"
+  },
+  "category": "Monocropping",
+  "season": "Rabi",
+  "name": "Monocrop",
+  "field": "63b9abecf10b7f90a305b58c",
+  "landParcel": "63b7867aed430580b836e8ca",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd84e3d03469ee6d7c9373"
+  },
+  "category": "Monocropping",
+  "name": "Balasubramani Cropping System",
+  "field": "63b9af5ef10b7f90a305b651",
+  "landParcel": "63b7867aed430580b836e8e5",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd85cfde70ff7e301ece3a"
+  },
+  "category": "Intercroping",
+  "name": "Kaliappan Cropping System",
+  "field": "63b9af83f10b7f90a305b65c",
+  "landParcel": "63b7867aed430580b836e8e7",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd6ea14919b832b58fcbcd"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Chinnkkalai Cropping system",
+  "field": "63b9ae37f10b7f90a305b615",
+  "landParcel": "63b7867aed430580b836e8da",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd8b5af19d90f6cffe0e8f"
+  },
+  "category": "Intercroping",
+  "name": "Kannammal East Cropping System",
+  "field": "63b9acdbf10b7f90a305b5ce",
+  "landParcel": "63b7867aed430580b836e8d0",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd66f44215d9518b58fa56"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Shanmugham Cropping System",
+  "field": "63b9ad2cf10b7f90a305b5e4",
+  "landParcel": "63b7867aed430580b836e8d2",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd67e3c8fcac9515ab02e0"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Easwari Cropping System",
+  "field": "63b9ad63f10b7f90a305b5ef",
+  "landParcel": "63b7867aed430580b836e8d3",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd5dc3c8fcac9515ab01f2"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Muthuveeran Cropping System",
+  "field": "63b9ac80f10b7f90a305b5ad",
+  "landParcel": "63b7867aed430580b836e8cd",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd6d454919b832b58fcbaf"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Nithiyanatham Cropping System",
+  "field": "63b9ae14f10b7f90a305b60a",
+  "landParcel": "63b7867aed430580b836e8d9",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63ba85f64d91b5d5f530ca34"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Arockiymery croppping system",
+  "field": "63b9ac3df10b7f90a305b597",
+  "landParcel": "63b7867aed430580b836e8cb",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd90e8de70ff7e301ecf1d"
+  },
+  "category": "Intercroping",
+  "name": "Murugapandi Cropping System",
+  "field": "63bd8fd9de70ff7e301ecf08",
+  "landParcel": "63b7867aed430580b836e8e3",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd72842d1871917531e7b6"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Rani Cropping System",
+  "field": "63b9ae97f10b7f90a305b62b",
+  "landParcel": "63b7867aed430580b836e8de",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd8db0f19d90f6cffe0ec4"
+  },
+  "category": "Intercroping",
+  "name": "Kannammal Cropping System",
+  "field": "63bd8cb5de70ff7e301ecedc",
+  "landParcel": "63bd771dab43dcf3ffa3059f",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd6658c8fcac9515ab02b5"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Valarmathi Cropping System",
+  "field": "63b9ad07f10b7f90a305b5d9",
+  "landParcel": "63b7867aed430580b836e8d1",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd86a5de70ff7e301ece5c"
+  },
+  "category": "Intercroping",
+  "name": "Manickam Cropping System",
+  "field": "63b9afaff10b7f90a305b667",
+  "landParcel": "63b7867aed430580b836e8e8",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd5f064215d9518b58f952"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Annamery Cropping System",
+  "field": "63b9ac9bf10b7f90a305b5b8",
+  "landParcel": "63b7867aed430580b836e8ce",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd87bede70ff7e301ece79"
+  },
+  "category": "Intercroping",
+  "name": "Sivendran Big Cropping System",
+  "field": "63b9afeef10b7f90a305b672",
+  "landParcel": "63b7867aed430580b836e8ea",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd786a2d1871917531e839"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Palanisamy Cropping System",
+  "field": "63bd76042d1871917531e805",
+  "landParcel": "63b7867aed430580b836e8e0",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd889ef19d90f6cffe0e4c"
+  },
+  "category": "Intercroping",
+  "name": "Sivendran Small Cropping System",
+  "field": "63b9b051f10b7f90a305b688",
+  "landParcel": "63b8f86344e207fd92ba75f2",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd25e0bf2d240e0ee84aa8"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Pichai Cropping System",
+  "field": "63b9ac61f10b7f90a305b5a2",
+  "landParcel": "63b7867aed430580b836e8cc",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd827cd03469ee6d7c9352"
+  },
+  "category": "Intercroping",
+  "name": "Selvaraj Cropping System",
+  "field": "63b9af3df10b7f90a305b646",
+  "landParcel": "63b7867aed430580b836e8e2",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63bd68e74215d9518b58fa95"
+  },
+  "category": "Intercroping",
+  "season": "Rabi",
+  "name": "Karuppasamy Cropping System",
+  "field": "63b9ada5f10b7f90a305b5ff",
+  "landParcel": "63b7867aed430580b836e8d8",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63f711c4daf0402df1b410bf"
+  },
+  "category": "Intercroping",
+  "name": "Mariyappan",
+  "field": "63f7074edaf0402df1b40fcd",
+  "landParcel": "63d10bfb6dd8c0e6583166eb",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63f714372a1282422888233b"
+  },
+  "category": "Intercroping",
+  "name": "Vadivel",
+  "field": "63f70996daf0402df1b4100f",
+  "landParcel": "63e480f73d58b2f8840be83c",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63f715332a1282422888235d"
+  },
+  "category": "Intercroping",
+  "name": "V.Khalidas",
+  "field": "63f70a17daf0402df1b4101a",
+  "landParcel": "63e48750e6e3ce4c75ee60d6",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63f85950217c871e822dfe44"
+  },
+  "category": "Intercroping",
+  "name": "R.Rani west farm 1",
+  "field": "63f85685217c871e822dfe10",
+  "landParcel": "63d78afa0a1fcf303b1f2b60",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63f85a3d8ce5d0f2e6ecb11f"
+  },
+  "category": "Intercroping",
+  "name": "R.Rani west farm 2",
+  "field": "63f8585a217c871e822dfe2b",
+  "landParcel": "63d78c250a1fcf303b1f2b72",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63f85b308ce5d0f2e6ecb149"
+  },
+  "category": "Intercroping",
+  "name": "M.Palanisamy Farm 2",
+  "field": "63f85901217c871e822dfe36",
+  "landParcel": "63d78f2b86b5b3bd8de3fb69",
+  "status": "Draft",
+  "collective": "63b7805ca62c0f681fec4f50",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63fc56e5e5f9acf077fb4930"
+  },
+  "category": "Intercroping",
+  "name": "iss-Sevapur west garden",
+  "field": "63fc54b4e5f9acf077fb490c",
+  "landParcel": "63da196585afea0bc6ed7aca",
+  "status": "Draft",
+  "collective": "63bd94c78fbeeaccad50085e",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63fc8ae6071eeb6440fcb70a"
+  },
+  "category": "Monocropping",
+  "name": "ISS SEVAPUR EAST GARDEN",
+  "field": "63fc5518e5f9acf077fb4917",
+  "landParcel": "63da171285afea0bc6ed7aa6",
+  "status": "Draft",
+  "collective": "63bd94c78fbeeaccad50085e",
+  "active": true
+},{
+  "_id": {
+    "$oid": "63fc8bb8071eeb6440fcb726"
+  },
+  "category": "Intercroping",
+  "name": "iss-Sevapur west garden",
+  "field": "63fc555ae5f9acf077fb4922",
+  "landParcel": "63da0338a87e27ba84ffecad",
+  "status": "Draft",
+  "collective": "63bd94c78fbeeaccad50085e",
+  "active": true
+}]

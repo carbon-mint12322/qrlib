@@ -1,0 +1,1464 @@
+[
+  {
+    "_id": "63b77f59a62c0f681fec4f4b",
+    "personalDetails": {
+      "address": {
+        "village": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "firstName": "Ashwin",
+      "lastName": "Dhanasri",
+      "email": "ashwin@carbonmint.com",
+      "primaryPhone": "+918888888888"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN"
+      ],
+      "inba-seva-sangam": [
+        "AGENT"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21f107bbc3398288d1f06",
+    "personalDetails": {
+      "firstName": "K.Selvaraj",
+      "lastName": "",
+      "fathersHusbandsName": "Karuppanan",
+      "primaryPhone": "9486166263",
+      "address": {
+        "village": "Valaiyapatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21fc27bbc3398288d1f0a",
+    "personalDetails": {
+      "firstName": "M.Pitchai",
+      "lastName": "",
+      "fathersHusbandsName": "Muthukumar",
+      "primaryPhone": "9025188553",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63d348c81bb9132986790ba5",
+    "personalDetails": {
+      "address": {
+        "village": "Karoor",
+        "state": "TamilNadu",
+        "pincode": "5000678"
+      },
+      "firstName": "Pooravasan",
+      "lastName": "",
+      "primaryPhone": "+919632487671",
+      "email": "poovarasan@organova.com"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c220607bbc3398288d1f0c",
+    "personalDetails": {
+      "firstName": "P.Edumpan",
+      "lastName": "",
+      "fathersHusbandsName": "Palanisamy",
+      "primaryPhone": "8973021807",
+      "address": {
+        "village": "Valaiyapatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21d5e7bbc3398288d1f00",
+    "personalDetails": {
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      },
+      "firstName": "Shanmugam",
+      "lastName": "P.",
+      "fathersHusbandsName": "Palaniyappan",
+      "primaryPhone": "8973191069"
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21f927bbc3398288d1f09",
+    "personalDetails": {
+      "firstName": "A.Manickam",
+      "lastName": "",
+      "fathersHusbandsName": "Arumugam",
+      "primaryPhone": "+919999999999",
+      "address": {
+        "village": "Surumanpatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true,
+    "devices": [
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fRgRkbuFTvKmPPLi9HYn0c:APA91bFAq7UozCJlPldHFhKIrOH0LSa3gH-t0Ruv1WTlhlL66W_V4jQH86EtjcZkNHhPcIhqkuy1czyIjkFYO4CjsOEdBgpIhWjxPS0NDrySys_t745p0sNOz9EeoaOUYAHNlhs_NJi8"
+      }
+    ]
+  },
+  {
+    "_id": "63c21bc67bbc3398288d1ef9",
+    "personalDetails": {
+      "firstName": "Thaiyammal",
+      "lastName": "",
+      "fathersHusbandsName": "Karuppan",
+      "primaryPhone": "9445404425",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21caf7bbc3398288d1efd",
+    "personalDetails": {
+      "firstName": "R.Valarmathi",
+      "lastName": "",
+      "fathersHusbandsName": "Ramachandran",
+      "primaryPhone": "6380346623",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63b7801ea62c0f681fec4f4e",
+    "personalDetails": {
+      "firstName": "Vezhavendan",
+      "lastName": "S",
+      "primaryPhone": "+919444219073"
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "FIELD_OFFICER",
+        "ADMIN"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21bf87bbc3398288d1efa",
+    "personalDetails": {
+      "firstName": "M.Amutha",
+      "lastName": "",
+      "fathersHusbandsName": "Maruthaimuthu",
+      "primaryPhone": "9787844587",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21c7a7bbc3398288d1efc",
+    "personalDetails": {
+      "firstName": "M.Karuppasamy",
+      "lastName": "",
+      "fathersHusbandsName": "Mookan",
+      "primaryPhone": "8760717292",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63b77f8ea62c0f681fec4f4d",
+    "personalDetails": {
+      "firstName": "Prasanna",
+      "lastName": "Kondapaneni",
+      "email": "prasanna@carbonmint.com",
+      "primaryPhone": "+919618645000"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21e367bbc3398288d1f04",
+    "personalDetails": {
+      "firstName": "V.Nithiyanatham",
+      "lastName": "",
+      "fathersHusbandsName": "Vellaikalai",
+      "primaryPhone": "8940416649",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c2208d7bbc3398288d1f0d",
+    "personalDetails": {
+      "firstName": "K.Chinnakkalai",
+      "lastName": "",
+      "fathersHusbandsName": "Karuppan",
+      "primaryPhone": "7094604637",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21d937bbc3398288d1f01",
+    "personalDetails": {
+      "firstName": "Sivendran",
+      "lastName": "",
+      "fathersHusbandsName": "",
+      "primaryPhone": "7306808727",
+      "address": {
+        "village": "Vinobajipuram",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c220397bbc3398288d1f0b",
+    "personalDetails": {
+      "firstName": "A.Annamery",
+      "lastName": "",
+      "fathersHusbandsName": "Arockiyasamy",
+      "primaryPhone": "9626249632",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63b77f7ba62c0f681fec4f4c",
+    "personalDetails": {
+      "firstName": "Venkat",
+      "lastName": "Pindipolu",
+      "email": "venkat@carbonmint.com",
+      "primaryPhone": "+917330903729"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN"
+      ]
+    },
+    "active": true,
+    "devices": [
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fSlPlNtSTYyG3e5PPC3orm:APA91bFwwMz9WT3TikSacBFr0psnDWHesxvqlBnHmk2hA7mfqQqCaX4s7-kZxDrX8Ocwtbko8rxUq6LlKJSqCv_RSsKSuEFVH6F_CPG3qoGgYi0jbcv0TRORsTPTToGnTH7Oyrpic9J_"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fSlPlNtSTYyG3e5PPC3orm:APA91bGVoOW_CZmpAqc0oHt7rq_YEQvOYLBnqT_ohUY5qLFvirwp-qN-PgphQc30u-26D7HaQPpA9AgTi4UkvfGArpexvjb6zCzshqT_5r3mZqNn9cwlZaqpjzVAjo7bC6KqFzG4cvIw"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fRgRkbuFTvKmPPLi9HYn0c:APA91bFAq7UozCJlPldHFhKIrOH0LSa3gH-t0Ruv1WTlhlL66W_V4jQH86EtjcZkNHhPcIhqkuy1czyIjkFYO4CjsOEdBgpIhWjxPS0NDrySys_t745p0sNOz9EeoaOUYAHNlhs_NJi8"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fSlPlNtSTYyG3e5PPC3orm:APA91bGh91ZlVmvDenx_xQq0aGLucyN13xtDONOxE2107xxfMy8GxHG_3DJKzBGfT019tDiuFyA71dcjS8Q-rHSZPaU0NJQwm5fsKov4Z6nBI2irtCsPH_tUxpHenIimGBHJOKkXE1eN"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fSlPlNtSTYyG3e5PPC3orm:APA91bEBbxOZHG3oRK7gOhdL0bmatFlFcNE3Zj_Fx51TYgBySbTXukm5T7ibbrvnbPXQJPVLXLC8AO8juyaOpc7G1Q_eQzYOq1lATA1wGb8nlY0_tbx-JCge5QBdZDS798soZ4u20HVW"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fSlPlNtSTYyG3e5PPC3orm:APA91bHCtikuZxX3-7Nayx7_AyV_6O7JEuFWPIUcy5Ut5y05Vs8TVl-ypiw8YBtblzBIh9t4blbM5uv6ZhXd_TTj4tC6IZlZ768Ba9cR6xBdmAhNUPkdiCsSYYqDT1HcM5-_lTfvIzqM"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fSlPlNtSTYyG3e5PPC3orm:APA91bEm4XIEsxeEjbEv5yanKcue_DjgjrUEDpX7Ol8R9aDJKnL9kTda20JgCKmygKSItW1fW8eUgriGhafYiN5JGP-Vr-iB9WMpW9dBi6rAhd_i2E0r0LxTj0Jysu1UoX9QexiF9u18"
+      }
+    ]
+  },
+  {
+    "_id": "63ba322cf537a79880058caf",
+    "personalDetails": {
+      "firstName": "CM",
+      "lastName": "Test",
+      "email": "it@carbonmint.com",
+      "primaryPhone": "+919999999999"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21cdc7bbc3398288d1efe",
+    "personalDetails": {
+      "firstName": "K. Eswari",
+      "lastName": "",
+      "fathersHusbandsName": "Krishnamoorthi",
+      "primaryPhone": "8940502266",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21e017bbc3398288d1f03",
+    "personalDetails": {
+      "firstName": "G.Balasubramani",
+      "lastName": "",
+      "fathersHusbandsName": "Gobal",
+      "primaryPhone": "9489113293",
+      "address": {
+        "village": "Kadavur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21f3c7bbc3398288d1f07",
+    "personalDetails": {
+      "firstName": "M.Palanisamy",
+      "lastName": "",
+      "fathersHusbandsName": "Muthan",
+      "primaryPhone": "7639013243",
+      "address": {
+        "village": "Valaiyapatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63d0bf578273ab2acc4e12cf",
+    "personalDetails": {
+      "firstName": "Madhu",
+      "lastName": "Daggupati",
+      "email": "daggupatimadhu@gmail.com",
+      "primaryPhone": "+917702222367"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21d0c7bbc3398288d1eff",
+    "personalDetails": {
+      "firstName": "S.Arockiyamery",
+      "lastName": "",
+      "fathersHusbandsName": "Savarimuthu",
+      "primaryPhone": "8526450677",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21dd27bbc3398288d1f02",
+    "personalDetails": {
+      "firstName": "P.Kannammal",
+      "lastName": "",
+      "fathersHusbandsName": "Pasipatham",
+      "primaryPhone": "8300358161",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21f687bbc3398288d1f08",
+    "personalDetails": {
+      "firstName": "K.Murugapandi",
+      "lastName": "",
+      "fathersHusbandsName": "Kaliyappan",
+      "primaryPhone": "8940048235",
+      "address": {
+        "village": "Valaiyapatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c220b77bbc3398288d1f0e",
+    "personalDetails": {
+      "firstName": "Kaliappan",
+      "lastName": "",
+      "fathersHusbandsName": "Perumal",
+      "primaryPhone": "9442069445",
+      "address": {
+        "village": "Surumanpatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21ee07bbc3398288d1f05",
+    "personalDetails": {
+      "firstName": "R.Rani",
+      "lastName": "",
+      "fathersHusbandsName": "A.Raman",
+      "primaryPhone": "8695895070",
+      "address": {
+        "village": "Valaiyapatty",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63c21c327bbc3398288d1efb",
+    "personalDetails": {
+      "firstName": "K.Muthuveeran",
+      "lastName": "",
+      "fathersHusbandsName": "Karuppan",
+      "primaryPhone": "9698725905",
+      "address": {
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      }
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63e1caa333c42e01185671d6",
+    "personalDetails": {
+      "firstName": "Silambarasan",
+      "lastName": "",
+      "primaryPhone": "+919791638512"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "6401c605a0c74b35ea95d492",
+    "personalDetails": {
+      "firstName": "Tamilselvan",
+      "lastName": "",
+      "primaryPhone": "+919489315578"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "640edf54d4354960fb255c3d",
+    "personalDetails": {
+      "firstName": "Kalki",
+      "lastName": "",
+      "primaryPhone": "+919865342849"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "641034f1031320b0c16df7b7",
+    "personalDetails": {
+      "firstName": "Krishna",
+      "lastName": "M",
+      "primaryPhone": "+919550644424"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "64130e1d9a61bc0b712afb67",
+    "personalDetails": {
+      "firstName": "Ashish",
+      "lastName": "Virde",
+      "email": "ashvir99260@gmail.com",
+      "primaryPhone": "+918349556908"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "64130e379a61bc0b712afb68",
+    "personalDetails": {
+      "firstName": "Prasanna",
+      "lastName": "Kondapaneni",
+      "email": "prasanna@carbonmint.com",
+      "primaryPhone": "+919618645000"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "64130e5a9a61bc0b712afb69",
+    "personalDetails": {
+      "firstName": "Rajan",
+      "lastName": "Vasani",
+      "email": "rajanvasani9@gmail.com",
+      "primaryPhone": "+911231231231"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true,
+    "devices": [
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "dRs3QHVbSkylhKnEw79vqa:APA91bFjdfzwjKi8HD5Ampp7Wr1-TztLh64cQ5zTu9WuGfGTpdvhUGlWkr7_hXhiI76fQJHKIPu0G1Pb_fW69j7rSkj-Rq3wrWuIpTitsT-7enV0t4p_fFuCv1YoPcEF7Hl0jLZv67Gx"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fyZROhI-TPSetCT2bkI5j8:APA91bGYA94x4cKn8ga9ebH23irSgToLIjcGLFrBMHF9ahxNWCHGawkJs8o8l608u3aIbCXGcKaPl3yBNp-9ltiXcqS_ceeBfu7_R3jKLiMaOowCkLhKCU9_AnRDWWiP8JhU0bHgIddp"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "fRgRkbuFTvKmPPLi9HYn0c:APA91bFAq7UozCJlPldHFhKIrOH0LSa3gH-t0Ruv1WTlhlL66W_V4jQH86EtjcZkNHhPcIhqkuy1czyIjkFYO4CjsOEdBgpIhWjxPS0NDrySys_t745p0sNOz9EeoaOUYAHNlhs_NJi8"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "c5Td_hISTFareMLwXSR8wa:APA91bFJRUEMtT1Kg7m7nLtv5PLPwNyODWgXo6_bHxXYlyjQxnySEyNa8ljR3a18-PXdERF4iRw7cNjbSIjiM0Hk2RjEHYt_DTseJxpBAlcoSU1lx6tsY3cKyGfizKrLxrnR8rNv9Fyr"
+      }
+    ]
+  },
+  {
+    "_id": "64130e669a61bc0b712afb6a",
+    "personalDetails": {
+      "firstName": "Manoj",
+      "lastName": "Manoharan",
+      "email": "manoj.manoharan.dev@gmail.com",
+      "primaryPhone": ""
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true,
+    "devices": [
+      {
+        "info": "2023-04-05T07:57:07.247Z",
+        "fcmToken": "2023-04-05T07:57:07.247Z"
+      },
+      {
+        "info": "2023-04-05T07:57:42.670Z",
+        "fcmToken": "2023-04-05T07:57:42.670Z"
+      },
+      {
+        "info": "2023-04-05T07:58:33.612Z",
+        "fcmToken": "2023-04-05T07:58:33.612Z"
+      },
+      {
+        "info": "2023-04-05T08:00:35.057Z",
+        "fcmToken": "2023-04-05T08:00:35.057Z"
+      },
+      {
+        "info": "2023-04-07T08:38:28.977Z",
+        "fcmToken": "2023-04-07T08:38:28.977Z"
+      },
+      {
+        "info": "2023-04-07T08:42:38.797Z",
+        "fcmToken": "2023-04-07T08:42:38.797Z"
+      },
+      {
+        "info": "2023-04-07T09:05:27.871Z",
+        "fcmToken": "2023-04-07T09:05:27.871Z"
+      },
+      {
+        "info": "2023-04-07T09:10:42.596Z",
+        "fcmToken": "2023-04-07T09:10:42.596Z"
+      },
+      {
+        "info": "2023-04-07T09:13:34.607Z",
+        "fcmToken": "2023-04-07T09:13:34.607Z"
+      },
+      {
+        "info": "2023-04-07T09:17:56.926Z",
+        "fcmToken": "2023-04-07T09:17:56.926Z"
+      },
+      {
+        "info": "2023-04-07T09:36:17.708Z",
+        "fcmToken": "2023-04-07T09:36:17.708Z"
+      },
+      {
+        "info": "2023-04-07T09:37:13.799Z",
+        "fcmToken": "2023-04-07T09:37:13.799Z"
+      },
+      {
+        "info": "2023-04-07T09:37:47.403Z",
+        "fcmToken": "2023-04-07T09:37:47.403Z"
+      },
+      {
+        "info": "2023-04-07T09:38:45.041Z",
+        "fcmToken": "2023-04-07T09:38:45.041Z"
+      },
+      {
+        "info": "2023-04-07T09:40:08.183Z",
+        "fcmToken": "2023-04-07T09:40:08.183Z"
+      },
+      {
+        "info": "2023-04-07T09:41:02.096Z",
+        "fcmToken": "2023-04-07T09:41:02.096Z"
+      },
+      {
+        "info": "2023-04-07T09:41:52.303Z",
+        "fcmToken": "2023-04-07T09:41:52.303Z"
+      },
+      {
+        "info": "2023-04-07T09:43:23.666Z",
+        "fcmToken": "2023-04-07T09:43:23.666Z"
+      },
+      {
+        "info": "2023-04-07T09:45:32.208Z",
+        "fcmToken": "2023-04-07T09:45:32.208Z"
+      },
+      {
+        "info": "2023-04-07T09:46:16.782Z",
+        "fcmToken": "2023-04-07T09:46:16.782Z"
+      },
+      {
+        "info": "2023-04-07T09:48:20.931Z",
+        "fcmToken": "2023-04-07T09:48:20.931Z"
+      },
+      {
+        "info": "2023-04-07T09:49:21.551Z",
+        "fcmToken": "2023-04-07T09:49:21.551Z"
+      },
+      {
+        "info": "2023-04-07T09:51:19.950Z",
+        "fcmToken": "2023-04-07T09:51:19.950Z"
+      },
+      {
+        "info": "2023-04-07T09:53:42.878Z",
+        "fcmToken": "2023-04-07T09:53:42.878Z"
+      },
+      {
+        "info": "2023-04-07T09:55:29.813Z",
+        "fcmToken": "2023-04-07T09:55:29.813Z"
+      },
+      {
+        "info": "2023-04-07T09:56:34.722Z",
+        "fcmToken": "2023-04-07T09:56:34.722Z"
+      },
+      {
+        "info": "2023-04-07T09:58:19.477Z",
+        "fcmToken": "2023-04-07T09:58:19.477Z"
+      },
+      {
+        "info": "2023-04-07T10:02:45.925Z",
+        "fcmToken": "2023-04-07T10:02:45.925Z"
+      },
+      {
+        "info": "2023-04-07T10:03:27.577Z",
+        "fcmToken": "2023-04-07T10:03:27.577Z"
+      },
+      {
+        "info": "2023-04-07T10:05:03.822Z",
+        "fcmToken": "2023-04-07T10:05:03.822Z"
+      },
+      {
+        "info": "2023-04-07T10:07:13.732Z",
+        "fcmToken": "2023-04-07T10:07:13.732Z"
+      },
+      {
+        "info": "2023-04-07T10:07:50.042Z",
+        "fcmToken": "2023-04-07T10:07:50.042Z"
+      },
+      {
+        "info": "2023-04-07T10:08:27.065Z",
+        "fcmToken": "2023-04-07T10:08:27.065Z"
+      },
+      {
+        "info": "2023-04-07T10:09:19.429Z",
+        "fcmToken": "2023-04-07T10:09:19.429Z"
+      },
+      {
+        "info": "2023-04-07T10:13:33.103Z",
+        "fcmToken": "2023-04-07T10:13:33.103Z"
+      },
+      {
+        "info": "2023-04-07T10:14:45.694Z",
+        "fcmToken": "2023-04-07T10:14:45.694Z"
+      },
+      {
+        "info": "2023-04-07T10:15:54.328Z",
+        "fcmToken": "2023-04-07T10:15:54.328Z"
+      },
+      {
+        "info": "2023-04-07T10:18:26.801Z",
+        "fcmToken": "2023-04-07T10:18:26.801Z"
+      },
+      {
+        "info": "2023-04-10T08:37:07.686Z",
+        "fcmToken": "2023-04-10T08:37:07.686Z"
+      },
+      {
+        "info": "2023-04-10T09:05:51.810Z",
+        "fcmToken": "2023-04-10T09:05:51.810Z"
+      },
+      {
+        "info": "2023-04-10T09:12:40.675Z",
+        "fcmToken": "2023-04-10T09:12:40.675Z"
+      },
+      {
+        "info": "2023-04-10T09:18:41.132Z",
+        "fcmToken": "2023-04-10T09:18:41.132Z"
+      },
+      {
+        "info": "2023-04-10T09:19:59.889Z",
+        "fcmToken": "2023-04-10T09:19:59.889Z"
+      },
+      {
+        "info": "2023-04-10T09:21:44.393Z",
+        "fcmToken": "2023-04-10T09:21:44.393Z"
+      },
+      {
+        "info": "2023-04-10T09:23:05.840Z",
+        "fcmToken": "2023-04-10T09:23:05.840Z"
+      },
+      {
+        "info": "2023-04-10T09:24:12.456Z",
+        "fcmToken": "2023-04-10T09:24:12.456Z"
+      },
+      {
+        "info": "2023-04-10T09:25:12.872Z",
+        "fcmToken": "2023-04-10T09:25:12.872Z"
+      },
+      {
+        "info": "2023-04-10T09:25:55.709Z",
+        "fcmToken": "2023-04-10T09:25:55.709Z"
+      },
+      {
+        "info": "2023-04-10T09:27:43.389Z",
+        "fcmToken": "2023-04-10T09:27:43.389Z"
+      },
+      {
+        "info": "2023-04-10T09:33:21.024Z",
+        "fcmToken": "2023-04-10T09:33:21.024Z"
+      },
+      {
+        "info": "2023-04-10T09:36:17.237Z",
+        "fcmToken": "2023-04-10T09:36:17.237Z"
+      },
+      {
+        "info": "2023-04-10T09:47:35.854Z",
+        "fcmToken": "2023-04-10T09:47:35.854Z"
+      },
+      {
+        "info": "2023-04-10T09:50:22.911Z",
+        "fcmToken": "2023-04-10T09:50:22.911Z"
+      },
+      {
+        "info": "2023-04-10T09:51:41.125Z",
+        "fcmToken": "2023-04-10T09:51:41.125Z"
+      },
+      {
+        "info": "2023-04-10T09:55:03.634Z",
+        "fcmToken": "2023-04-10T09:55:03.634Z"
+      },
+      {
+        "info": "2023-04-10T09:56:30.154Z",
+        "fcmToken": "2023-04-10T09:56:30.154Z"
+      },
+      {
+        "info": "2023-04-10T09:59:43.986Z",
+        "fcmToken": "2023-04-10T09:59:43.986Z"
+      },
+      {
+        "info": "2023-04-10T10:02:02.103Z",
+        "fcmToken": "2023-04-10T10:02:02.103Z"
+      },
+      {
+        "info": "2023-04-10T10:04:31.410Z",
+        "fcmToken": "2023-04-10T10:04:31.410Z"
+      },
+      {
+        "info": "2023-04-10T10:08:12.419Z",
+        "fcmToken": "2023-04-10T10:08:12.419Z"
+      },
+      {
+        "info": "2023-04-10T10:09:20.460Z",
+        "fcmToken": "2023-04-10T10:09:20.460Z"
+      },
+      {
+        "info": "2023-04-10T10:10:30.110Z",
+        "fcmToken": "2023-04-10T10:10:30.110Z"
+      },
+      {
+        "info": "2023-04-10T10:13:14.979Z",
+        "fcmToken": "2023-04-10T10:13:14.979Z"
+      },
+      {
+        "info": "2023-04-10T10:14:50.640Z",
+        "fcmToken": "2023-04-10T10:14:50.640Z"
+      },
+      {
+        "info": "2023-04-10T10:16:38.832Z",
+        "fcmToken": "2023-04-10T10:16:38.832Z"
+      },
+      {
+        "info": "2023-04-11T06:15:51.215Z",
+        "fcmToken": "2023-04-11T06:15:51.215Z"
+      },
+      {
+        "info": "2023-04-11T06:23:29.934Z",
+        "fcmToken": "2023-04-11T06:23:29.934Z"
+      },
+      {
+        "info": "2023-04-12T07:23:47.686Z",
+        "fcmToken": "2023-04-12T07:23:47.686Z"
+      },
+      {
+        "info": "2023-04-12T07:28:08.580Z",
+        "fcmToken": "2023-04-12T07:28:08.580Z"
+      },
+      {
+        "info": "2023-04-12T08:09:53.544Z",
+        "fcmToken": "2023-04-12T08:09:53.544Z"
+      },
+      {
+        "info": "2023-04-12T08:35:21.887Z",
+        "fcmToken": "2023-04-12T08:35:21.887Z"
+      },
+      {
+        "info": "2023-04-12T09:58:48.311Z",
+        "fcmToken": "2023-04-12T09:58:48.311Z"
+      },
+      {
+        "info": "2023-04-12T10:16:58.934Z",
+        "fcmToken": "2023-04-12T10:16:58.934Z"
+      },
+      {
+        "info": "2023-04-12T10:30:12.293Z",
+        "fcmToken": "2023-04-12T10:30:12.293Z"
+      },
+      {
+        "info": "2023-04-12T10:43:09.400Z",
+        "fcmToken": "2023-04-12T10:43:09.400Z"
+      },
+      {
+        "info": "2023-04-12T11:20:42.961Z",
+        "fcmToken": "2023-04-12T11:20:42.961Z"
+      },
+      {
+        "info": "2023-04-12T11:25:18.396Z",
+        "fcmToken": "2023-04-12T11:25:18.396Z"
+      },
+      {
+        "info": "2023-04-12T11:27:28.360Z",
+        "fcmToken": "2023-04-12T11:27:28.360Z"
+      },
+      {
+        "info": "2023-04-12T11:30:12.842Z",
+        "fcmToken": "2023-04-12T11:30:12.842Z"
+      },
+      {
+        "info": "2023-04-12T11:32:03.889Z",
+        "fcmToken": "2023-04-12T11:32:03.889Z"
+      },
+      {
+        "info": "2023-04-12T11:36:06.618Z",
+        "fcmToken": "2023-04-12T11:36:06.618Z"
+      },
+      {
+        "info": "2023-04-12T11:41:22.457Z",
+        "fcmToken": "2023-04-12T11:41:22.457Z"
+      },
+      {
+        "info": "2023-04-12T11:42:21.468Z",
+        "fcmToken": "2023-04-12T11:42:21.468Z"
+      },
+      {
+        "info": "2023-04-12T11:52:10.914Z",
+        "fcmToken": "2023-04-12T11:52:10.914Z"
+      },
+      {
+        "info": "2023-04-12T11:52:54.341Z",
+        "fcmToken": "2023-04-12T11:52:54.341Z"
+      },
+      {
+        "info": "2023-04-12T11:57:49.000Z",
+        "fcmToken": "2023-04-12T11:57:49.000Z"
+      },
+      {
+        "info": "2023-04-12T11:58:41.104Z",
+        "fcmToken": "2023-04-12T11:58:41.104Z"
+      },
+      {
+        "info": "2023-04-12T12:01:46.081Z",
+        "fcmToken": "2023-04-12T12:01:46.081Z"
+      },
+      {
+        "info": "2023-04-12T12:12:44.895Z",
+        "fcmToken": "2023-04-12T12:12:44.895Z"
+      },
+      {
+        "info": "2023-04-17T07:45:43.607Z",
+        "fcmToken": "2023-04-17T07:45:43.607Z"
+      },
+      {
+        "info": "2023-04-18T06:54:48.152Z",
+        "fcmToken": "2023-04-18T06:54:48.152Z"
+      }
+    ]
+  },
+  {
+    "_id": "64130e839a61bc0b712afb6b",
+    "personalDetails": {
+      "firstName": "Shivani",
+      "lastName": "Awasthi",
+      "email": "shvaniawsthi001@gmail.com",
+      "primaryPhone": "+917080176406"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true
+  },
+  {
+    "_id": "63d10a796dd8c0e6583166d5",
+    "personalDetails": {
+      "address": {
+        "street": "Sevapur",
+        "village": "Sevapur",
+        "mandal": "karur",
+        "state": "Tamil Nadu",
+        "pincode": "621311"
+      },
+      " firstName": "Mariyappan",
+      " lastName": "A",
+      "fathersHusbandsName": "A.Mariyappan",
+      "primaryPhone": "+918940857086"
+    },
+    "roles": {
+      "farmbook": [
+        "FARMER"
+      ],
+      "kadavur-organic-farmers": [
+        "FARMER"
+      ]
+    },
+    "devices": [
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "c-sDRKlXQqCV67JPdU-GQS:APA91bG_SWAqq-8-yG4P_q-pdVGJvqpVlOmYBXwRAG6ur4SZDfclplkiCJQK2xev2YyFkDxx9T8jsP4aeVk5R0V2xJVkr49v_sn5uvz3Iz7n2RNC0Pdl9KVdN4WPMn5RuPnX5YvdLFeN"
+      },
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "dW6q7CT6T8OoYvRHv4VjqF:APA91bGDbjg4G5g3GVnRhkpKhKx8XB8OpiOtbJyLD5HvYNQCtX196yWAuMNzg2dNBnwcaQzMYCVNgQEP53cIetDQeOpbE2aoJ3Su9X1AHIv5LuKnOAwoxtjPyvK0e0TRz0UMxWj7VsdV"
+      }
+    ]
+  },
+  {
+    "_id": "6426b32f66f326f2fd527ed3",
+    "personalDetails": {
+      "firstName": "Ayush",
+      "lastName": "Tiwari",
+      "email": "ayushtiwari17011995@gmail.com",
+      "primaryPhone": "+919755416223"
+    },
+    "roles": {
+      "farmbook": [
+        "AGENT",
+        "FIELD_OFFICER"
+      ],
+      "kadavur-organic-farmers": [
+        "AGENT",
+        "ADMIN",
+        "FIELD_OFFICER"
+      ],
+      "inba-seva-sangam": [
+        "AGENT",
+        "ADMIN"
+      ]
+    },
+    "active": true,
+    "devices": [
+      {
+        "info": "AndroidDevice",
+        "fcmToken": "c5Td_hISTFareMLwXSR8wa:APA91bFJRUEMtT1Kg7m7nLtv5PLPwNyODWgXo6_bHxXYlyjQxnySEyNa8ljR3a18-PXdERF4iRw7cNjbSIjiM0Hk2RjEHYt_DTseJxpBAlcoSU1lx6tsY3cKyGfizKrLxrnR8rNv9Fyr"
+      }
+    ]
+  },
+  {
+    "_id": "6447878c6b5ac003eadc8a62",
+    "personalDetails": {
+      "address": {
+        "village": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "firstName": "Test",
+      "lastName": "User",
+      "primaryPhone": "+918888888888",
+      "email": "ashwin.d85@gmail.com"
+    },
+    "roles": {
+      "kadavur-organic-farmers": [
+        "AGENT"
+      ],
+      "farmbook": [
+        "AGENT"
+      ]
+    },
+    "active": true,
+    "createdAt": "2023-04-25T07:55:56.603Z"
+  },
+  {
+    "_id": "644788cd6b5ac003eadc8a9d",
+    "personalDetails": {
+      "address": {
+        "village": "Hyderabad",
+        "state": "Telangana",
+        "pincode": "500001"
+      },
+      "firstName": "Test",
+      "lastName": "User 2",
+      "primaryPhone": "+918888888881",
+      "email": "asdj@ask.com"
+    },
+    "roles": {
+      "kadavur-organic-farmers": [
+        "FIELD_OFFICER"
+      ],
+      "farmbook": [
+        "FIELD_OFFICER"
+      ]
+    },
+    "active": true,
+    "createdAt": "2023-04-25T08:01:17.842Z"
+  }
+]
